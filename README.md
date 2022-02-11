@@ -20,7 +20,7 @@ I intend to create responsive, visually aesthetic pages to invoke a positive fee
 -  To showcase my award winning landscape photographs.
 -  To have relevant keywords for search engines.
 -  To have accessibility for visitors.
--  A responsive design for visitors to my site, phone, table, laptop, desktop.
+-  A responsive design for visitors to my site, phone, tablet, laptop, desktop.
 -  Navigation to be easey and intuitive.
 -  A home page, a gallery page, an about page and a contact page.
 -  My social media links on the bottom of each page.
