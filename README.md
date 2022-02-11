@@ -11,7 +11,7 @@
 
 ## Objective
 The purpose of this project is to demonstrate my ability in HTML and CSS. I will create a site for an award winning fictional photographer as if he has hired me.
-I intend to create responsive, visually aesthetic pages to invoke a positive feeling to anyone that visits them.
+I intend to create accessible, responsive, visually aesthetic pages to invoke a positive feeling to anyone that visits them and to showcase this photographers work.
 
 ## User Experience (UX)
 ### User Stories
