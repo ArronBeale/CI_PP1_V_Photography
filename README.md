@@ -16,24 +16,28 @@ I intend to create responsive, visually aesthetic pages to invoke a positive fee
 ## User Experience (UX)
 ### User Stories
 
-#### As the site owner
-- I want to showcase my award winning landscape photographs.
-- I want a responsive design for visitors to my site, phone, table, laptop, desktop.
-- I want navigation to be easey and intuitive.
-- I want a home page, a gallery page, an about page and a contact page.
-- I want my social media links on the bottom of each page.
-- I want a google map on my contact page.
-- I want my picture on the home page, very important!
-- I want visitors to sign up to my newsletter.
-#### First Time Visiter
+#### As the site owner, I want:
+-  To showcase my award winning landscape photographs.
+-  To have relevant keywords for search engines.
+-  To have accessibility for visitors.
+-  A responsive design for visitors to my site, phone, table, laptop, desktop.
+-  Navigation to be easey and intuitive.
+-  A home page, a gallery page, an about page and a contact page.
+-  My social media links on the bottom of each page.
+-  A google map on my contact page.
+-  My picture on the home page, very important!
+-  Visitors to sign up to my newsletter.
+#### As a first time visiter, I would like:
 - Home page to show it is a photography site.
+- Accessibility
 - Easy navigation.
 - Information easily available, contact information, gallery, about.
 - Links to social media available.
 - Gallery of photographers work.
 - Responsive design to work on phone, tablet laptop.
-#### As a returning Visitor
+#### As a returning Visitor, I would like:
 - All of the above.
+- Accessibility.
 - Easy navigation.
 - A newsletter sign up.
 
