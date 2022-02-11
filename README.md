@@ -45,8 +45,11 @@
 - Pexel.com
 
 ## Testing
+### Validators
+### Devices
+### Lighthouse
 
-### Bugs Encountered
+### Bugs
 
 ## Deployment
 
