@@ -1,4 +1,4 @@
-# Milestone Project 1: 
+# Milestone Project 1: V Photography 
 
 
 ## Table of Contents
@@ -9,8 +9,13 @@
 - Deployment
 - Credits
 
+## Objective
+The purpose of this project is to demonstrate my ability in HTML and CSS. I will create a site for an award winning fictional photographer.
+I intend to create responsive, visually aesthetic pages to invoke a positive feeling to anyone that visits them.
+
 ## User Experience (UX)
 ### User Stories
+
 #### First Time Visiter
 #### Returning Visitor
 #### Frequent Visitor
