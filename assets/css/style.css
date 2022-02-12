@@ -39,16 +39,15 @@ li a {
 
 .logo {
     display: inline-block;
-    background-image: url("../images/vp.png.jpg") alt=" Logo for V Photography";
+    background-image: url("../images/vp.png.jpg");
+    background-size: 50px 50px;
     width: 50px;
     height: 50px;
-    margin-left: 20px;
-    margin-top: 5px;
-    margin-bottom: 5px;
+    float: left;
 }
 
 .hero-image {
-    background-image: url("../images/landscape1.jpg") alt="Landscape photo of mountains, clouds and forests above a village";
+    background-image: url("../images/landscape1.jpg");
     width: 100%;
     height: 500px;
     background-size: cover;
