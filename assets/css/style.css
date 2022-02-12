@@ -3,6 +3,13 @@
 
 * {
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family: Cinzel, sans-serif;
 }
 
 h1 {
@@ -70,8 +77,8 @@ li a {
 .profile-picture-container { 
     width: 300px;
     height: 300px;
-    background-color: brown;
-    margin-top: 700px;
+    background-color: red;
+    margin-top: 400px;
     margin-left: 20px;
 }
 
@@ -106,6 +113,12 @@ li a {
         text-align: center;
         font-size: 1em;
         word-spacing: 5px;
+    }
+
+    .profile-picture-container {
+        width: 100%;
+        height: 100px;
+        margin-top: 600px;
     }
 }
 
