@@ -3,8 +3,6 @@
 
 * {
     box-sizing: border-box;
-    margin: 0;
-    padding: 0;
 }
 
 h1 {
@@ -67,6 +65,22 @@ li a {
     margin-top: 50px;
     letter-spacing: 6px;
     font-size: 2em;
+}
+
+.profile-picture-container { 
+    width: 300px;
+    height: 300px;
+    background-color: brown;
+    margin-top: 700px;
+    margin-left: 20px;
+}
+
+#profile-picture {
+    background-image: url("../images/profile.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
 }
 
 /* Media queries for smaller screens */
