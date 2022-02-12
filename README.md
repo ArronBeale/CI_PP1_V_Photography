@@ -82,3 +82,4 @@ I intend to create accessible, responsive, visually aesthetic pages to invoke a 
 ## Deployment
 
 ## Credits
+- VP Logo created using Adobe Creative Cloud Express (https://express.adobe.com/)
