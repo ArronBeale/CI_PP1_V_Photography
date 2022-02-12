@@ -88,9 +88,10 @@ li a {
         font-size: 1em;
     }
 
-    .nav li {
+    .nav {
         text-align: center;
         font-size: 1em;
+        word-spacing: 5px;
     }
 }
 
