@@ -9,6 +9,15 @@ ul li  {
     display: inline-block;
 }
 
+ul a:hover {
+    text-decoration: underline;
+}
+
+.active {
+    border-bottom: 2px solid black;
+    color: black;
+}
+
 .ul {
     display: inline-block;
     margin-right: 0 auto;
@@ -25,7 +34,7 @@ li a {
 .nav {
     width: 100%;
     line-height: 50px;
-    text-align: right;  
+    text-align: right;
 }
 
 .logo {
