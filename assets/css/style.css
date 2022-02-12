@@ -8,7 +8,7 @@
 }
 
 h1 {
-    font-family: Cinzel, sans-serif;
+    font-family: "Spectral SC", sans-serif;
 }
 ul li  {
     list-style-type: none;
@@ -38,6 +38,7 @@ li a {
 }
 
 .nav {
+    font-family: "Spectral SC", sans-serif;
     width: 100%;
     line-height: 70px;
     text-align: right;
