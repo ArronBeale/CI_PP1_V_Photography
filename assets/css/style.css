@@ -10,12 +10,12 @@ ul li  {
 }
 
 .ul {
-    background-color: rgb(146, 66, 126);
     display: inline-block;
     margin-right: 0 auto;
     word-spacing: 10px;
     margin-right: 20px;
     font-weight: bold;
+    font-size: 1.3em;
 
 }
 li a {
@@ -23,7 +23,6 @@ li a {
 }
 
 .nav {
-    background-color: red;
     width: 100%;
     line-height: 50px;
     text-align: right;  
@@ -46,4 +45,11 @@ li a {
     height: 500px;
     background-size: cover;
     position: absolute;
+}
+
+.hero-text {
+    text-align: center;
+    margin-top: 100px;
+    letter-spacing: 6px;
+    font-size: 2em;
 }
