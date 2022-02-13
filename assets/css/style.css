@@ -111,7 +111,7 @@ li a {
     height: 300px;
 }
 
-#lake.bg {
+#lake-bg {
     background-image: url("../images/lake.jpg");
     background-position: center;
     background-repeat: no-repeat;
