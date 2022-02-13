@@ -75,15 +75,14 @@ li a {
     font-size: 2em;
 }
 
-.profile-picture-container { 
-    width: 300px;
-    height: 300px;
-    background-color: red;
-    margin-top: 100px;
-    margin-left: 20px;
+.flexbox-container { 
+    display: flex;
+    width: 100%;
+    height: 500px;
+    background-color: rgb(230, 62, 62);
 }
 
-#profile-picture {
+#profileflexbox-item1 {
     background-image: url("../images/profile.jpg");
     background-position: center;
     background-repeat: no-repeat;
