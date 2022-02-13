@@ -64,7 +64,8 @@ li a {
     width: 100%;
     height: 500px;
     background-size: cover;
-    position: absolute;
+    position: relative;
+    overflow: hidden;
 }
 
 .hero-text {
@@ -78,7 +79,7 @@ li a {
     width: 300px;
     height: 300px;
     background-color: red;
-    margin-top: 400px;
+    margin-top: 100px;
     margin-left: 20px;
 }
 
@@ -87,7 +88,13 @@ li a {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    position: absolute;
+    position: relative;
+}
+
+.footer {
+    width: 100%;
+    height: 50px;
+    background-color: blanchedalmond;
 }
 
 /* Media queries for smaller screens */
