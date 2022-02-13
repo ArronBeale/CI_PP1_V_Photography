@@ -116,7 +116,11 @@ li a {
     height: 50px;
     background-color: blanchedalmond;
     text-align: center;
-    padding: 10px;
+    /* padding: 10px; */
+}
+
+.social-links li {
+    padding: 20px;
 }
 
 
