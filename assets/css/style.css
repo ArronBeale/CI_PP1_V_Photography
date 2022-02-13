@@ -105,10 +105,12 @@ li a {
     /* background-color: aqua; */
 }
 
-#list {
-    display: inline;
-    text-decoration: dotted;
-    list-style-type: circle;
+.flexbox-item-image {
+    min-height: 100px;
+    padding: 10px;
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%;
 }
 
 .footer {
