@@ -78,6 +78,7 @@ I intend to create accessible, responsive, visually aesthetic pages to invoke a 
 ### Lighthouse
 
 ### Bugs
+- Issue of profile picture not displaying on the page.
 
 ## Deployment
 
