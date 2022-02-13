@@ -122,6 +122,11 @@ li a {
     overflow: hidden;
 }
 
+#awards-container {
+    width: 100%;
+    height: 200px;
+}
+
 .back-to-top {
     text-decoration: none;
     padding: 20px;
@@ -141,6 +146,9 @@ li a {
     display: inline-block;
 }
 
+.social-links a:hover {
+    color: black;
+}
 
 
 /* Media queries for smaller screens */
