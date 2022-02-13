@@ -101,6 +101,12 @@ li a {
     background-color: aqua;
 }
 
+#list {
+    display: inline;
+    text-decoration: dotted;
+    list-style-type: circle;
+}
+
 .footer {
     width: 100%;
     height: 50px;
