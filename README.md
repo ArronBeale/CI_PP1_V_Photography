@@ -78,7 +78,7 @@ I intend to create accessible, responsive, visually aesthetic pages to invoke a 
 ### Lighthouse
 
 ### Bugs
-- Issue of profile picture not displaying on the page.
+- (Fixed) Issue of profile picture not displaying on the page. I added image into index.html instead of adding through style.css, this then resolved my issue.
 
 ## Deployment
 
