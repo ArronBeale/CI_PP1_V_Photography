@@ -20,7 +20,7 @@ h1, h2 {
     display: inline-block;
 }
 
-ul a:hover {
+a:hover {
     text-decoration: underline;
 }
 
@@ -120,6 +120,12 @@ li a {
     background-size: cover;
     background-attachment: fixed;
     overflow: hidden;
+}
+
+.back-to-top {
+    text-decoration: none;
+    padding: 20px;
+    margin: 20px;
 }
 
 .footer {
