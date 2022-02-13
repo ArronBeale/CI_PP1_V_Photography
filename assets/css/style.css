@@ -57,6 +57,7 @@ li a {
     float: left;
 }
 
+/* hero image styling */
 .hero-image {
     background-image: url("../images/landscape1.jpg");
     background-position: center;
@@ -75,6 +76,7 @@ li a {
     font-size: 2em;
 }
 
+/* Flexbox styling */
 .flexbox-container { 
     display: flex;
     flex-wrap: wrap;
@@ -82,23 +84,25 @@ li a {
     align-items: center;
     width: 100%;
     height: auto;
-    background-color: rgb(230, 62, 62);
+    /* background-color: rgb(230, 62, 62); */
     margin-top: 50px;
 }
 
 .flexbox-item {
     min-height: 200px;
-    margin: 50px;
+    margin: 20px;
 }
 
 .flexbox-item1 {
     min-height: 80px;
+    border: 1px solid black;
 }
 
 .flexbox-item2 {
     min-height: 100px;
-    border: 2px solid black;
-    background-color: aqua;
+    padding: 10px;
+    /* border: 2px solid black; */
+    /* background-color: aqua; */
 }
 
 #list {
