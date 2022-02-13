@@ -77,17 +77,21 @@ li a {
 
 .flexbox-container { 
     display: flex;
+    justify-content: flex-start;
+    align-items: center;
     width: 100%;
     height: 500px;
     background-color: rgb(230, 62, 62);
 }
 
-#profileflexbox-item1 {
-    background-image: url("../images/profile.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
+.flexbox-item {
+    min-height: 200px;
+}
+
+#flexbox-item1 {
+    min-height: 200px;
+    border: 2px solid black;
+    background-color: aqua;
 }
 
 .footer {
