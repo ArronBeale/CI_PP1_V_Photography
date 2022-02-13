@@ -8,14 +8,14 @@
     border: none;
 }
 
-body {
-    font-family: Cinzel, sans-serif;
+p {
+    font-family: Georgia, sans-serif;
 }
 
-h1 {
+h1, h2 {
     font-family: "Spectral SC", sans-serif;
 }
-ul li  {
+.nav-ul li  {
     list-style-type: none;
     display: inline-block;
 }
@@ -26,10 +26,10 @@ ul a:hover {
 
 .active {
     border-bottom: 2px solid black;
-    color: black;
+    color: #8986a3;
 }
 
-.ul {
+.nav-ul {
     display: inline-block;
     margin-right: 0 auto;
     word-spacing: 10px;
@@ -40,6 +40,7 @@ ul a:hover {
 }
 li a {
     text-decoration: none;
+    color: #8986a3;
 }
 
 .nav {
@@ -131,6 +132,7 @@ li a {
 
 .social-links li {
     padding: 20px;
+    display: inline-block;
 }
 
 
