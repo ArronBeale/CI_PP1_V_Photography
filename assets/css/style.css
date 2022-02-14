@@ -150,10 +150,8 @@ li a {
     color: black;
 }
 
-.heading-container {
+.gallery-container {
     width: 100%;
-    height: 200px;
-    text-align: center;
     background-color: blueviolet;
 }
 
