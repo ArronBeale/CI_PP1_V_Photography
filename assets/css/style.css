@@ -105,7 +105,7 @@ li a {
 
 #image-bg-container {
     width: 100%;
-    height: 300px;
+    height: 600px;
 }
 
 #lake-bg {
@@ -113,7 +113,7 @@ li a {
     background-position: center;
     background-repeat: no-repeat;
     width: 100%;
-    height: 400px;
+    height: 600px;
     background-size: cover;
     background-attachment: fixed;
     overflow: hidden;
@@ -122,6 +122,14 @@ li a {
 #awards-container {
     width: 100%;
     height: 200px;
+}
+
+#contact-container {
+    width: 100%;
+    height: 600px;
+    background-color: blue;
+    position: relative;
+    margin: 0 auto;
 }
 
 .back-to-top-container {
