@@ -129,6 +129,14 @@ li a {
     height: 600px;
     background-color: blue;
     position: relative;
+    
+}
+
+#contact-info {
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    background-color: brown;
     margin: 0 auto;
 }
 
