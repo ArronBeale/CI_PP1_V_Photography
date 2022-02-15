@@ -30,7 +30,6 @@ a:hover {
 
 .nav-ul {
     display: inline-block;
-    margin-right: 0 auto;
     word-spacing: 10px;
     margin-right: 20px;
     font-weight: bold;
@@ -138,6 +137,7 @@ li a {
     text-align: center;
     margin: 0 auto;
     padding: 20px;
+    background-color: blanchedalmond;
 }
 
 #contact-container > h2 {
