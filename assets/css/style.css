@@ -121,6 +121,8 @@ li a {
 #awards-container {
     width: 100%;
     height: 200px;
+    text-align: center;
+    background-color: blue;
 }
 
 #contact-container {
@@ -132,12 +134,24 @@ li a {
 }
 
 .newsletter-signup {
-    width: 33%;
-    height: 100px;
+    width: 20%;
+    height: 90px;
     text-align: center;
-    margin: 0 auto;
+    margin: 100px auto;
     padding: 20px;
+    background-color: #8986a3;
+}
+
+input[type=submit] {
+    padding: 3px 10px;
+    /* background-color: #8986a3; */
+    color: black;
+    /* border: 1px solid white; */
+}
+
+input[type=submit]:hover {
     background-color: blanchedalmond;
+    color: black;
 }
 
 #contact-container > h2 {
@@ -194,7 +208,7 @@ li a {
     margin-bottom: 20px;
 }
 
-/* Media queries for smaller screens */
+/* Media queries for small screens */
 
 @media screen and (max-width: 320px) {
     .hero-image {
@@ -202,11 +216,15 @@ li a {
         height: auto;
     }
 
+    h3 {
+        font-size: 1em;
+    }
+
     .logo {
         background-size: 70px 70px;
-    width: 70px;
-    height: 70px;
-    float: left;
+        width: 70px;
+        height: 70px;
+        float: left;
     }
 
     .hero-image h1 {
@@ -224,12 +242,21 @@ li a {
         height: 100px;
         margin-top: 600px;
     }
+
+    .newsletter-signup {
+        width: 100%;
+    }
 }
 
+/* Media queries for medium screens */
 @media screen and (max-width: 767px) {
     .hero-image {
         width: 100%;
         height: auto;
+    }
+
+    h3 {
+        font-size: 1em;
     }
 
     .logo {
@@ -247,8 +274,13 @@ li a {
         text-align: center;
         font-size: 1em;
     }
+
+    .newsletter-signup {
+        width: 100%;
+    }
 }
 
+/* Media queries for laptops */
 @media screen and (max-width: 1200px) {
     .hero-image {
         width: 100%;
@@ -258,6 +290,14 @@ li a {
     .hero-image h1 {
         font-size: 1em;
         margin-bottom: 450px;
+    }
+
+    h3 {
+        font-size: 1em;
+    }
+    
+    .newsletter-signup {
+        width: 100%;
     }
 
 }
