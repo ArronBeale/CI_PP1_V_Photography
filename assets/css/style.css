@@ -12,7 +12,7 @@ p {
     font-family: Georgia, sans-serif;
 }
 
-h1, h2 {
+h1, h2, h3 {
     font-family: "Spectral SC", sans-serif;
 }
 .nav-ul li  {
@@ -126,18 +126,14 @@ li a {
 
 #contact-container {
     width: 100%;
-    height: 600px;
-    background-color: blue;
+    height: 400px;
     position: relative;
-    
+    text-align: center;
+    padding: 50px;
 }
 
-#contact-info {
-    text-align: center;
-    width: 300px;
-    height: 300px;
-    background-color: brown;
-    margin: 0 auto;
+#contact-container > h2 {
+    text-decoration: underline;
 }
 
 .back-to-top-container {
