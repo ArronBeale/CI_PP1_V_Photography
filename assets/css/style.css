@@ -141,7 +141,7 @@ li a {
     margin-right: auto;
     margin-top: 50px;
     margin-bottom: 50px;
-    background-color: red;
+    /* background-color: red; */
     position: relative;
 }
 
@@ -155,6 +155,7 @@ li a {
 }
 figcaption {
     text-align: center;
+    color: gray;
 }
 
 #contact-container {
@@ -165,10 +166,10 @@ figcaption {
 }
 
 .newsletter-signup {
-    width: 20%;
+    width: 100%;
     height: 90px;
     text-align: center;
-    margin: 100px auto;
+    margin: 50px auto;
     padding: 20px;
     background-color: #8986a3;
 }
