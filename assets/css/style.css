@@ -38,9 +38,9 @@ a:hover {
 
 }
 
-li a {
-    text-decoration: none;
+a {
     color: #8986a3;
+    text-decoration: none;
 }
 
 .nav {
@@ -114,7 +114,7 @@ li a {
     background-position: center;
     background-repeat: no-repeat;
     width: 100%;
-    height: 600px;
+    height: 500px;
     background-size: cover;
     background-attachment: fixed;
     overflow: hidden;
