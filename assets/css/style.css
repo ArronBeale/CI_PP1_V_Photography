@@ -122,9 +122,17 @@ a {
 }
 
 #awards-container {
-    width: 100%;
+    width: 60%;
+    height: 300px;
     text-align: center;
-    background-color: #75d3f9;
+    padding-top: 50px;
+    margin: 0 auto;
+    /* background-color: #75d3f9; */
+}
+
+.award-image {
+    max-width: 50%;
+    object-fit: scale-down;
 }
 
 #article-container {
