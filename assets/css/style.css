@@ -26,7 +26,7 @@ a:hover {
 }
 
 .active {
-    border-bottom: 2px solid #8986a3;
+    border-bottom: 2px solid #2596be;
 }
 
 .nav-ul {
@@ -39,7 +39,7 @@ a:hover {
 }
 
 a {
-    color: #8986a3;
+    color: #2596be;
     text-decoration: none;
 }
 
@@ -60,12 +60,13 @@ a {
 
 /* hero image styling */
 .hero-image {
-    background-image: url("../images/landscape1.jpg");
+    background-image: url("../images/lake.jpg");
     background-position: center;
     background-repeat: no-repeat;
     width: 100%;
     height: 600px;
     background-size: cover;
+    background-position: top;
     position: relative;
     overflow: hidden;
 }
@@ -123,7 +124,7 @@ a {
 #awards-container {
     width: 100%;
     text-align: center;
-    background-color: blue;
+    background-color: #75d3f9;
 }
 
 #article-container {
@@ -169,9 +170,10 @@ figcaption {
     width: 100%;
     height: 90px;
     text-align: center;
-    margin: 50px auto;
+    margin: 0 auto;
+    margin-top: 50px;
     padding: 20px;
-    background-color: #8986a3;
+    background-color: #75d3f9;
 }
 
 input[type=submit] {
@@ -180,7 +182,7 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-    background-color: blanchedalmond;
+    background-color: #2596be;
     color: black;
 }
 
@@ -225,7 +227,7 @@ input[type=submit]:hover {
 .footer {
     width: 100%;
     height: 58px;
-    background-color: blanchedalmond;
+    background-color: #75d3f9;
     text-align: center;
 }
 
