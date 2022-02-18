@@ -121,17 +121,29 @@ a {
     overflow: hidden;
 }
 
-#awards-container {
-    width: 60%;
+#awards-container1 {
+    width: 34%;
+    height: 300px;
+    /* padding-top: 50px; */
+    /* margin-left: 50px; */
+    display: flex;
+    object-fit: contain;
+    object-position: right;
+    background-color: #75d3f9;
+}
+
+#awards-container2 {
+    width: 50%;
     height: 300px;
     text-align: center;
     padding-top: 50px;
-    margin: 0 auto;
-    /* background-color: #75d3f9; */
+    /* margin-left: 50px; */
+    display: flex;
+    background-color: red;
 }
 
 .award-image {
-    max-width: 50%;
+    max-width: 100%;
     object-fit: scale-down;
 }
 
