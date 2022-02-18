@@ -145,6 +145,7 @@ a {
     padding-top: 50px;
     padding-left: 30px;
     display: flex;
+    margin-bottom: 100px;
 }
 
 #awards-container2 > ul {
@@ -205,6 +206,10 @@ figcaption {
     padding: 20px;
     background-color: #75d3f9;
     background-image: linear-gradient(#75d3f9, white);
+}
+
+.rounded-submit {
+    border-radius: 25px;
 }
 
 input[type=submit] {
