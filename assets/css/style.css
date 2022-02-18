@@ -138,20 +138,12 @@ a {
     background-color: #75d3f9;
 }
 
-#awards-container2 {
-    width: 50%;
-    height: 300px;
-    text-align: left;
-    padding-top: 50px;
-    padding-left: 30px;
-    display: flex;
-    margin-bottom: 100px;
-}
-
-#awards-container2 > ul {
+.flexbox-item2 > ul {
     font-weight: 600;
     list-style-type: none;
     text-decoration: none;
+    margin: 50px;
+    line-height: 45px;
 }
 
 .awards-image {
