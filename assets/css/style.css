@@ -121,6 +121,10 @@ a {
     overflow: hidden;
 }
 
+#award-section {
+    text-align: center;
+    text-decoration: underline;
+}
 #awards-container1 {
     width: 34%;
     height: 300px;
@@ -135,11 +139,10 @@ a {
 #awards-container2 {
     width: 50%;
     height: 300px;
-    text-align: center;
+    text-align: left;
     padding-top: 50px;
-    /* margin-left: 50px; */
+    padding-left: 30px;
     display: flex;
-    background-color: red;
 }
 
 .award-image {
