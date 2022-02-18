@@ -145,6 +145,12 @@ a {
     display: flex;
 }
 
+#awards-container2 > ul {
+    font-weight: 600;
+    list-style-type: none;
+    text-decoration: none;
+}
+
 .award-image {
     max-width: 100%;
     object-fit: scale-down;
