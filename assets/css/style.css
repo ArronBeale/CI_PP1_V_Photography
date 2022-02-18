@@ -92,6 +92,19 @@ a {
     margin-bottom: 20px;
 }
 
+#bg-video1 {
+width: 100vw;
+height: 100vh;
+position: fixed;
+object-fit: cover;
+left: 0;
+right: 0;
+bottom: 0;
+top: 0;
+z-index: -1;
+opacity: 0.2;
+}
+
 .flexbox-item {
     min-height: 200px;
     margin: 20px;
@@ -99,7 +112,11 @@ a {
 
 .flexbox-item1 {
     min-height: 80px;
-    /* border: 1px solid black; */
+}
+
+/* Possibly redundant, to be removed */
+.awards-img {
+    border-radius: 50%;
 }
 
 .flexbox-item2 {
@@ -123,9 +140,10 @@ a {
     overflow: hidden;
 }
 
-#award-section {
+#awards-section {
     text-align: center;
     text-decoration: underline;
+    margin-top: 60px;
 }
 
 .flexbox-item2 > ul {
