@@ -199,6 +199,10 @@ figcaption {
     padding: 50px;
 }
 
+#contact-container>h2 {
+    text-decoration: underline;
+}
+
 .newsletter-signup {
     width: 100%;
     height: 90px;
@@ -207,6 +211,11 @@ figcaption {
     padding: 20px;
     background-color: #75d3f9;
     background-image: linear-gradient(#75d3f9, white);
+}
+
+.map-box {
+    width: 100%;
+    height: 300;
 }
 
 .rounded-submit {
@@ -221,10 +230,6 @@ input[type=submit] {
 input[type=submit]:hover {
     background-color: #2596be;
     color: black;
-}
-
-#contact-container>h2 {
-    text-decoration: underline;
 }
 
 .back-to-top-container {
