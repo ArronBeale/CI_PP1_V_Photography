@@ -1,9 +1,10 @@
 # Milestone Project 1: V Photography 
 
-![A picture of the site on various device screens.] (assets/readme_images/responsive1.png)
+! [A picture of the site on various device screens.] (assets/readme_images/responsive1.png)
 
 
 ## Table of Contents
+- Objective
 - User Experience (UX)
 - Features
 - Technologies Used
@@ -19,7 +20,7 @@ I intend to create accessible, responsive, visually aesthetic pages to invoke a 
 ### User Stories
 
 #### As the site owner, I want:
--  To showcase my award winning landscape photographs.
+-  To showcase my award winning photographs with a gallery.
 
 -  To have relevant keywords for search engines.
 
