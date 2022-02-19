@@ -1,6 +1,6 @@
 # Milestone Project 1: V Photography 
-### Work in Progress
-- https://arronbeale.github.io/CI_PP1_V_Photography/
+
+![A picture of the site on various device screens.] (assets/readme_images/responsive1.png)
 
 
 ## Table of Contents
@@ -128,6 +128,7 @@ I intend to create accessible, responsive, visually aesthetic pages to invoke a 
 - (Fixed) When I deployed onto GitHub pages my images did not load as the path began with a "/", i removed this as I researched that this can stop images loading on GitHub pages.
 
 ## Deployment
+- The deployed site can be found via the following link: https://arronbeale.github.io/CI_PP1_V_Photography/
 
 ## Credits
 - Google Maps for use of map code to embed on contact page.
