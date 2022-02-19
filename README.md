@@ -122,11 +122,14 @@ Secondary features were to advertise himself and his contact information to gene
 - Pexel.com
 
 ## Testing
-I have tested 
-
+I have tested the site on Firefox, Google Chrome and Internet Explorer.
+Firefox and Chrome returned no issues at various screen sizes, measure via Dev tools.
+Internet Explorer returns slight display disruption, I expected this from Internet Explorer so I was not surprised.
+I tested screen responsiveness for iphone 5, iphone SE, Samsung Galaxy 8, iPad Air, iPad Mini, Surface Pro 7.
 
 ### Validators
 My original validation returned no major issues only two instances where syntax needed to be tidied up and fixed.
+
 
 ### Devices
 
