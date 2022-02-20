@@ -8,8 +8,8 @@ Developer: Arron Beale
 ## Table ofContent
 1. [Project Goals](#project-goals)
    1. [User Goals](#user-goals)
-   2. [Site owner Goals] (#site-owner)
-2. [User Experience](<#user-experience)
+   2. [Site owner Goals] (#Site-Owner)
+2. [User Experience](<#User-Experience)
    1. [Target Audience](#target-audience)
    2. [User Requirments and Expectations](#user-requirments-and-expectations)
    3. [User Stories](#user-storeis)
