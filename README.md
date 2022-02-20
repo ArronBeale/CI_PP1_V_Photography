@@ -3,7 +3,7 @@
 ![responsive display image](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/responsive1.PNG)
 
 # Content
-- [Objective](<##Objective>)
+- [Objective](<## Objective>)
 - [User Experience (UX)](<User Experience>)
 - [Features](<Features>)
 - [Technologies Used](<Technologies Used>)
