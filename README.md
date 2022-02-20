@@ -6,7 +6,7 @@
 - [Objective](<#Objective>)
 - [User Experience (UX)](<#User Experience>)
 - [Features](<#Features>)
-- [Technologies Used](<#Technologies_Used>)
+- [Technologies Used](<#Technologies>)
 - [Testing](<#Testing>)
 - [Deployment](<#Deployment>)
 - [Credits](<#Credits>)
@@ -114,7 +114,7 @@ Secondary features were to advertise himself and his contact information to gene
 
 [Back to Top](<#Content>)
 
-# Technologies Used
+# Technologies
 
 ## Languages Used
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
