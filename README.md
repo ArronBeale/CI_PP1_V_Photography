@@ -4,7 +4,7 @@
 
 # Content
 - [Objective](<#Objective>)
-- [User Experience (UX)](<#User-Experience>)
+- [User Experience (UX)](<#User-Experience-(UX)>)
 - [Features](<#Features>)
 - [Technologies Used](<#Technologies>)
 - [Testing](<#Testing>)
