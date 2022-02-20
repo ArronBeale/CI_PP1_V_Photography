@@ -64,7 +64,7 @@ I intend to create accessible, responsive, visually aesthetic pages to invoke a 
 
 - A newsletter sign up.
 
-
+[Back to Top](<#Content>)
 
 ## Design
 The design of the site is a multi page site which consists of a home, gallery, about and contact page. 
@@ -79,7 +79,6 @@ I used Google Fonts to import Spectral SC and Cinzel to my stylesheet.
 ### Imagery
 I wanted imagery to reflect the photographer that was from Bavaria, a place with mountains and snow. I searched www.pexels.com and sourced my hero image, photographer profile picture, about images, gallery images and a background video for the home page.
 
-[Back to Top](<#Content>)
 ### Wireframes
 
 - Home Page Wireframe
@@ -94,6 +93,8 @@ I wanted imagery to reflect the photographer that was from Bavaria, a place with
 ![About Page Wireframe](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/balsamiq3.png)
 
 ![contact Page Wireframe](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/balsamiq4.png)
+
+[Back to Top](<#Content>)
 
 ## Features
 
@@ -110,6 +111,8 @@ Secondary features were to advertise himself and his contact information to gene
 ### Future Features
 
 - Future features will include a video gallery as he intends to start using drones to capture video footage from aerial angles.
+
+[Back to Top](<#Content>)
 
 ## Technologies Used
 
@@ -133,6 +136,8 @@ Secondary features were to advertise himself and his contact information to gene
 
 - [Pexels.com](https://www.pexels.com/)
 
+[Back to Top](<#Content>)
+
 ## Testing
 I have tested the site on Firefox, Google Chrome and Internet Explorer.
 Firefox and Chrome returned no issues at various screen sizes, measure via Dev tools.
@@ -152,8 +157,12 @@ My original validation returned no major issues only two instances where syntax 
 
 - (Fixed) When I deployed onto GitHub pages my images did not load as the path began with a "/", i removed this as I researched that this can stop images loading on GitHub pages.
 
+[Back to Top](<#Content>)
+
 ## Deployment
 - The deployed site can be found via the following link: https://arronbeale.github.io/CI_PP1_V_Photography/
 
 ## Credits
 - Google Maps for use of map code to embed on contact page.
+
+[Back to Top](<#Content>)
