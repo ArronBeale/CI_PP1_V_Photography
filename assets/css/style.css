@@ -116,7 +116,7 @@ a {
     min-height: 80px;
 }
 
-/* Possibly redundant, to be removed */
+/* reserved for future content */
 .awards-img {
     border-radius: 50%;
 }
@@ -289,7 +289,6 @@ input[type=submit]:hover {
 }
 
 /* Media queries for small screens */
-
 @media screen and (max-width: 320px) {
     .hero-image {
         width: 100%;
@@ -389,5 +388,4 @@ input[type=submit]:hover {
     .newsletter-signup {
         width: 100%;
     }
-
 }
