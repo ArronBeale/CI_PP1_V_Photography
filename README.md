@@ -6,7 +6,7 @@
 - [Objective](<#Objective>)
 - [User Experience (UX)](<#User Experience>)
 - [Features](<#Features>)
-- [Technologies Used](<#Technologies Used>)
+- [Technologies Used](<#Technologies_Used>)
 - [Testing](<#Testing>)
 - [Deployment](<#Deployment>)
 - [Credits](<#Credits>)
@@ -175,6 +175,5 @@ Currently there is one error related to the newsletter form which is flagging th
 - Google Fonts
 - My Mentor Mo Shami for his valuable guidance
 - Code Institute for providing the platform to teach me how to create
-- 
 
 [Back to Top](<#Content>)
