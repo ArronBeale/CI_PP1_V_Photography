@@ -145,9 +145,27 @@ Internet Explorer returns slight display disruption, I expected this from Intern
 I tested screen responsiveness for iphone 5, iphone SE, Samsung Galaxy 8, iPad Air, iPad Mini, Surface Pro 7.
 
 ## Validators
+- [HTML Validator Used](https://validator.w3.org/)
+- [CSS Validator Used](https://jigsaw.w3.org/css-validator/)
+
+###  Results
 My original validation returned no major issues only two instances where syntax needed to be tidied up and fixed.
 Currently there is one error related to the newsletter form which is flagging the post method of push as an error.
 
+### Index HTML Validation
+![Index html validation image](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/validate_html_about.PNG)
+
+### Gallery HTML Validation
+![Gallery html validation image](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/validate_html_gallery.PNG)
+
+### About HTMl Validation
+![About html validation image](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/validate_html_about.PNG)
+
+### Contact HTML Validation
+![Contact html validation image](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/validate_html_contact.PNG)
+
+### Css Validation Results
+![Css validation image]()
 
 ## Devices
 - iphone 5
