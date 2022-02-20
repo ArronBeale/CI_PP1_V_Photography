@@ -167,20 +167,18 @@ This is the results from compressing all my images including the background vide
 ![Compress Results 5](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/bgvideo1_after.PNG)
 
 After I reduced file size I was able to achieve the following Lighthouse scores.
-## Index
-Index
-![](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/lighthouse_index_desktop.PNG)
-Mobile
-![](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/lighthouse_index_mobile.png)
-## Gallery
-![]()
-![]()
-## About
-![]()
-![]()
-## Contact
-![]()
-![]()
+## Index: Desktop and Mobile Results
+![Index desktop results.](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/lighthouse_index_desktop.PNG)
+![Index mobile results](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/lighthouse_index_mobile.png)
+## Gallery: Desktop and Mobile Results
+![Gallery desktop results](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/lighthouse_gallery_desktop.PNG)
+![Gallery mobile results](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/lighthouse_gallery_mobile.png)
+## About: Desktop and Mobile Results
+![About desktop results](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/lighthouse_about_desktop.PNG)
+![About mobile results](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/lighthouse_about_mobile.png)
+## Contact: Desktop and Mobile Results
+![Contact desktop results](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/lighthouse_contact_desktop.PNG)
+![Contact mobile results](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/lighthouse_contact_mobile.png)
 
 ## Bugs
 - (Fixed) Issue of profile picture not displaying on the page. I added image into index.html instead of adding through style.css, this then resolved my issue.
