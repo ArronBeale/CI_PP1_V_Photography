@@ -3,7 +3,7 @@
 ![responsive display image](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/responsive1.PNG)
 
 # Content
-- [Objective](<## Objective>)
+- [Objective](<#Objective>)
 - [User Experience (UX)](<User Experience>)
 - [Features](<Features>)
 - [Technologies Used](<Technologies Used>)
@@ -11,7 +11,7 @@
 - [Deployment](<Deployment>)
 - [Credits](<Credits>)
 
-## Objective
+# Objective
 The purpose of this project is to demonstrate my ability in HTML and CSS. I will create a site for an award winning fictional photographer as if he has hired me.
 I intend to create accessible, responsive, visually aesthetic pages to invoke a positive feeling to anyone that visits them and to showcase this photographers work.
 
