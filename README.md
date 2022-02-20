@@ -166,6 +166,22 @@ This is the results from compressing all my images including the background vide
 ![Compress Results 4](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/compress4.PNG)
 ![Compress Results 5](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/bgvideo1_after.PNG)
 
+After I reduced file size I was able to achieve the following Lighthouse scores.
+## Index
+Index
+![](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/lighthouse_index_desktop.PNG)
+Mobile
+![](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/lighthouse_index_mobile.png)
+## Gallery
+![]()
+![]()
+## About
+![]()
+![]()
+## Contact
+![]()
+![]()
+
 ## Bugs
 - (Fixed) Issue of profile picture not displaying on the page. I added image into index.html instead of adding through style.css, this then resolved my issue.
 
