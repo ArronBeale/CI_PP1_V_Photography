@@ -158,6 +158,13 @@ Currently there is one error related to the newsletter form which is flagging th
 - Surface Pro 7
 
 ## Lighthouse
+While testing with Lighthouse my images were slowing the site down alot, I needed to compress all the images using [Compressor.io](https://compressor.io/)
+This is the results from compressing all my images including the background video on the home page:
+![Compress Results 1](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/compress1.PNG)
+![Compress Results 2](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/compress2.PNG)
+![Compress Results 3](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/compress3.PNG)
+![Compress Results 4](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/compress4.PNG)
+![Compress Results 5](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/bgvideo1_after.PNG)
 
 ## Bugs
 - (Fixed) Issue of profile picture not displaying on the page. I added image into index.html instead of adding through style.css, this then resolved my issue.
