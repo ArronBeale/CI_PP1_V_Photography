@@ -146,9 +146,16 @@ I tested screen responsiveness for iphone 5, iphone SE, Samsung Galaxy 8, iPad A
 
 ## Validators
 My original validation returned no major issues only two instances where syntax needed to be tidied up and fixed.
+Currently there is one error related to the newsletter form which is flagging the post method of push as an error.
 
 
 ## Devices
+- iphone 5
+- iphone SE
+- Samsung Galaxy 8
+- iPad Air
+- iPad Mini
+- Surface Pro 7
 
 ## Lighthouse
 
@@ -164,5 +171,10 @@ My original validation returned no major issues only two instances where syntax 
 
 # Credits
 - Google Maps for use of map code to embed on contact page.
+- Font Awesome
+- Google Fonts
+- My Mentor Mo Shami for his valuable guidance
+- Code Institute for providing the platform to teach me how to create
+- 
 
 [Back to Top](<#Content>)
