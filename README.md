@@ -1,6 +1,6 @@
 # Milestone Project 1: V Photography 
 
-![responsive display image](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/responsive1.PNG)
+![responsive display image](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/am-i-responsive.PNG)
 
 # Content
 - [Objective](<#Objective>)
@@ -19,41 +19,41 @@ I intend to create accessible, responsive, visually aesthetic pages to invoke a 
 ## User Stories
 
 ### As the site owner, I want:
--  To showcase my award winning photographs with a gallery.
+1.  To showcase my award winning photographs with a gallery.
 
--  To have relevant keywords for search engines.
+2.  To have relevant keywords for search engines.
 
--  To have accessibility for visitors.
+3.  To have accessibility for visitors.
 
--  A responsive design for visitors to my site, phone, tablet, laptop, desktop.
+4.  A responsive design for visitors to my site, phone, tablet, laptop, desktop.
 
--  Navigation to be easey and intuitive.
+5.  Navigation to be easey and intuitive.
 
--  A home page, a gallery page, an about page and a contact page.
+6.  A home page, a gallery page, an about page and a contact page.
 
--  My social media links on the bottom of each page.
+7.  My social media links on the bottom of each page.
 
--  A google map on my contact page.
+8.  A google map on my contact page.
 
--  My picture on the home page, very important!
+9.  My picture on the home page, very important!
 
--  Visitors to sign up to my newsletter.
+10.  Visitors to sign up to my newsletter.
 
 ### As a first time visiter, I would like:
 
-- Home page to show it is a photography site.
+11. Home page to show it is a photography site.
 
-- Accessibility.
+12. Accessibility.
 
-- Easy navigation.
+13. Easy navigation.
 
-- Information easily available, contact information, gallery, about.
+14. Information easily available, contact information, gallery, about.
 
-- Links to social media available.
+15. Links to social media available.
 
-- Gallery of photographers work.
+16. Gallery of photographers work.
 
-- Responsive design to work on phone, tablet laptop.
+17. Responsive design to work on phone, tablet laptop.
 
 ### As a returning Visitor, I would like:
 - All of the above.
@@ -86,6 +86,9 @@ I wanted imagery to reflect the photographer that was from Bavaria, a place with
 - About Page Wireframe
 - Contact Page Wireframe
 
+<details><summary>Home</summary>
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/balsamiq1.png">
+</details>
 ![Home Page Wireframe](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/balsamiq1.png)
 
 ![Gallery Page Wireframe](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/balsamiq2.png)
