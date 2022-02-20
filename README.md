@@ -165,7 +165,7 @@ Currently there is one error related to the newsletter form which is flagging th
 ![Contact html validation image](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/validate_html_contact.PNG)
 
 ### Css Validation Results
-![Css validation image]()
+![Css validation image](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/validate_css.PNG)
 
 ## Devices
 - iphone 5
