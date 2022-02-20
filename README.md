@@ -5,16 +5,476 @@ Developer: Arron Beale
 
 [Live webpage](https://arronbeale.github.io/CI_PP1_V_Photography/)
 
-# Content
-- [Objective](<#Objective>)
-- [User Experience (UX)](<#User-Experience-(UX)>)
-- [Features](<#Features>)
-- [Technologies Used](<#Technologies>)
-- [Testing](<#Testing>)
-- [Deployment](<#Deployment>)
-- [Credits](<#Credits>)
+## Table ofContent
+1. [Project Goals](#project-goals)
+  1. [User Goals](<#user-goals)
+  2. [Site owner Goals] (#site-owner-goals)
+2. [User Experience](<#user-experience)
+  1.[Target Audience](#target-audience)
+  2.[User Requirments and Expectations](#user-requirments-and-expectations)
+  3.[User Stories](#user-storeis)
+3. [Design](#design)
+  1.
+  2.
+  3.
+  4.
+  5.
+4. [Technologies Used](#technologies-used)
+  1.
+  2.
+5. [Features](#features)
+6. [Testing](#validation)
+  1.
+  2.
+  3.
+  4.
+  5.
+  6.
+  7.
+8. [Bugs](#bugs)
+9. [Deployment](#deployment)
+10. [Credits](#credits)
+11. [Acknowledgements](#ackowledgements)
 
-# Objective
+## Project Goals
+
+### User Goals
+-
+-
+-
+-
+
+### Site Owner Goals
+-
+-
+-
+-
+
+## User Experience
+
+### Target Audience
+-
+-
+-
+-
+
+### User Requirements and expectations
+-
+-
+-
+-
+-
+-
+-
+
+### User Stories
+
+### First Time User
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+### Returning User
+8.
+9.
+10
+11.
+
+### Site Owner
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+
+## Design
+
+### Design Choices
+
+### Color
+
+### Fonts
+
+### Structure
+
+### Wireframes
+
+## Technologies Used
+
+### Languages
+- HTML
+- CSS
+
+### Frameworks and Tools
+- [Balsamiq](https://balsamiq.com/)
+
+- [GitPod](https://gitpod.io/)
+
+- [Git](https://git-scm.com/)
+
+- [GitHub](https://github.com/)
+
+- [Google Fonts](https://fonts.google.com/)
+
+- [Font Awesome](https://fontawesome.com/)
+
+- [Pexels.com](https://www.pexels.com/)
+
+## Features
+The site contains 4 pages and 11 features
+
+### Logo and Navigation Bar
+
+### Gallery
+
+### Profile Image
+
+### Awards
+
+### About
+
+### Newsletter Sign up
+
+### Contact Information
+
+### Map
+
+### Back to Top
+
+### Social Links
+
+### Footer
+
+## Validation
+
+### HTML Validation
+
+### CSS Validation
+
+### Accessibility
+
+### Performance
+
+### Performing Tests on Devices
+
+### Browser Compatibility
+
+### Testing User Stories
+
+1.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>X</summary>
+<img src="">
+<img src="">
+</details>
+
+2.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>X</summary>
+<img src="">
+<img src="">
+</details>
+
+3.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>X</summary>
+<img src="">
+<img src="">
+</details>
+
+4.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>X</summary>
+<img src="">
+<img src="">
+</details>
+
+5.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>X</summary>
+<img src="">
+<img src="">
+</details>
+
+6.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>X</summary>
+<img src="">
+<img src="">
+</details>
+
+7.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>X</summary>
+<img src="">
+<img src="">
+</details>
+
+8.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>X</summary>
+<img src="">
+<img src="">
+</details>
+
+9.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>X</summary>
+<img src="">
+<img src="">
+</details>
+
+10.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>X</summary>
+<img src="">
+<img src="">
+</details>
+
+11.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>X</summary>
+<img src="">
+<img src="">
+</details>
+
+12.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>X</summary>
+<img src="">
+<img src="">
+</details>
+
+13.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>X</summary>
+<img src="">
+<img src="">
+</details>
+
+14.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>X</summary>
+<img src="">
+<img src="">
+</details>
+
+15.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>X</summary>
+<img src="">
+<img src="">
+</details>
+
+16.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>X</summary>
+<img src="">
+<img src="">
+</details>
+
+17.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>X</summary>
+<img src="">
+<img src="">
+</details>
+
+18.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>X</summary>
+<img src="">
+<img src="">
+</details>
+
+19.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>X</summary>
+<img src="">
+<img src="">
+</details>
+
+20.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>X</summary>
+<img src="">
+<img src="">
+</details>
+
+21.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>X</summary>
+<img src="">
+<img src="">
+</details>
+
+## Bugs
+
+| **Bug** | **Fix** |
+| ----------- | ----------- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+## Deployment
+The website was deployed to GitHub Pages via the following:
+1.
+2.
+3.
+4.
+
+You can for fork the repository by following these steps:
+1. Go to the GitHub repository
+2. Click on Fork button in upper right hand corner
+
+You can clone the repository by following these steps:
+1. Go to the GitHub repository 
+2. Locate the Code button above the list of files and click it 
+3. Select if you prefere to clone using HTTPS, SSH, or Github CLI and click the copy button to copy the URL to your clipboard
+4. Open Git Bash
+5. Change the current working directory to the one where you want the cloned directory
+6. Type git clone and paste the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
+7.Press Enter to create your local clone.
+
+
+## Credits
+
+### Media
+
+### Code
+
+## Acknowledgements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 The purpose of this project is to demonstrate my ability in HTML and CSS. I will create a site for an award winning fictional photographer as if he has hired me.
 I intend to create accessible, responsive, visually aesthetic pages to invoke a positive feeling to anyone that visits them and to showcase this photographers work.
 
