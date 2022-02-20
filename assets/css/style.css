@@ -12,7 +12,9 @@ p {
     font-family: Georgia, sans-serif;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     font-family: "Spectral SC", sans-serif;
 }
 
@@ -93,16 +95,16 @@ a {
 }
 
 #bg-video1 {
-width: 100vw;
-height: 100vh;
-position: fixed;
-object-fit: cover;
-left: 0;
-right: 0;
-bottom: 0;
-top: 0;
-z-index: -1;
-opacity: 0.2;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    object-fit: cover;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    z-index: -1;
+    opacity: 0.2;
 }
 
 .flexbox-item {
@@ -146,7 +148,7 @@ opacity: 0.2;
     margin-top: 60px;
 }
 
-.flexbox-item2 > ul {
+.flexbox-item2>ul {
     font-weight: 600;
     list-style-type: none;
     text-decoration: none;
@@ -186,6 +188,7 @@ opacity: 0.2;
     margin-left: auto;
     margin-right: auto;
 }
+
 figcaption {
     text-align: center;
     color: gray;
