@@ -1,6 +1,8 @@
 # Milestone Project 1: V Photography 
 
-## Table of Contents
+![responsive display image](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/responsive1.PNG)
+
+# Content
 - Objective
 - User Experience (UX)
 - Features
@@ -77,11 +79,21 @@ I used Google Fonts to import Spectral SC and Cinzel to my stylesheet.
 ### Imagery
 I wanted imagery to reflect the photographer that was from Bavaria, a place with mountains and snow. I searched www.pexels.com and sourced my hero image, photographer profile picture, about images, gallery images and a background video for the home page.
 
+[Back to Top](<#Content>)
 ### Wireframes
 
 - Home Page Wireframe
+- Gallery Page Wireframe
+- About Page Wireframe
+- Contact Page Wireframe
 
-- Mobile Wireframe
+![Home Page Wireframe](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/balsamiq1.png)
+
+![Gallery Page Wireframe](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/balsamiq2.png)
+
+![About Page Wireframe](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/balsamiq3.png)
+
+![contact Page Wireframe](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/balsamiq4.png)
 
 ## Features
 
@@ -102,24 +114,24 @@ Secondary features were to advertise himself and his contact information to gene
 ## Technologies Used
 
 ### Languages Used
-- HTML5
-- CSS3
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS3](https://en.wikipedia.org/wiki/CSS)
 
 ### Frameworks, Libraries & Programs Used
 
-- Balsamiq
+- [Balsamiq](https://balsamiq.com/)
 
-- GitPod
+- [GitPod](https://gitpod.io/)
 
-- Git
+- [Git](https://git-scm.com/)
 
-- GitHub
+- [GitHub](https://github.com/)
 
-- Google Fonts
+- [Google Fonts](https://fonts.google.com/)
 
-- Font Awesome
+- [Font Awesome](https://fontawesome.com/)
 
-- Pexel.com
+- [Pexels.com](https://www.pexels.com/)
 
 ## Testing
 I have tested the site on Firefox, Google Chrome and Internet Explorer.
