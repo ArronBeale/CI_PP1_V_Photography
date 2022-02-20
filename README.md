@@ -1,6 +1,9 @@
-# Milestone Project 1: V Photography 
+# V Photography 
+Developer: Arron Beale
 
 ![responsive display image](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/am-i-responsive.PNG)
+
+[Live webpage](https://arronbeale.github.io/CI_PP1_V_Photography/)
 
 # Content
 - [Objective](<#Objective>)
@@ -81,21 +84,21 @@ I wanted imagery to reflect the photographer that was from Bavaria, a place with
 
 ## Wireframes
 
-- Home Page Wireframe
-- Gallery Page Wireframe
-- About Page Wireframe
-- Contact Page Wireframe
-
 <details><summary>Home</summary>
-<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/balsamiq1.png">
+<img src="docs/wire-frames/">
 </details>
-![Home Page Wireframe](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/balsamiq1.png)
 
-![Gallery Page Wireframe](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/balsamiq2.png)
+<details><summary>Gallery</summary>
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/balsamiq2.png">
+</details>
 
-![About Page Wireframe](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/balsamiq3.png)
+<details><summary>About</summary>
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/balsamiq3.png">
+</details>
 
-![contact Page Wireframe](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/balsamiq4.png)
+<details><summary>Contact</summary>
+<img src="(https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/assets/readme_images/balsamiq4.png">
+</details>
 
 [Back to Top](<#Content>)
 
@@ -209,7 +212,7 @@ After I reduced file size I was able to achieve the following Lighthouse scores.
 [Back to Top](<#Content>)
 
 # Deployment
-- The deployed site can be found via the following link: https://arronbeale.github.io/CI_PP1_V_Photography/
+
 
 # Credits
 - Google Maps for use of map code to embed on contact page.
