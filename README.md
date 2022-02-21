@@ -50,6 +50,7 @@ Developer: Arron Beale
 - Provide information for customers to contact him.
 - Allow customers to learn about him.
 
+[Back to Top](<#Table-of-Content>)
 ## User Experience
 
 ### Target Audience
@@ -96,6 +97,7 @@ Developer: Arron Beale
 20. My picture on the home page, very important!
 21. Visitors to sign up to my newsletter.
 
+[Back to Top](<#Table-of-Content>)
 ## Design
 
 ### Design Choices
@@ -137,6 +139,7 @@ A logo is visible on the left of the navigation bar. There is a total of four pa
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/wireframes/wireframe-contact.PNG">
 </details>
    
+[Back to Top](<#Table-of-Content>)
 ## Technologies Used
 
 ### Languages
@@ -157,7 +160,8 @@ A logo is visible on the left of the navigation bar. There is a total of four pa
 - [Font Awesome](https://fontawesome.com/)
 
 - [Pexels.com](https://www.pexels.com/)
-
+- 
+[Back to Top](<#Table-of-Content>)
 ## Features
 The site currently contains 12 features across 4 pages.
 
@@ -221,6 +225,7 @@ The site currently contains 12 features across 4 pages.
 
 ![Footer](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/features/feature-footer.PNG)
 
+[Back to Top](<#Table-of-Content>)
 ## Validation
 
 ### HTML Validation
@@ -489,6 +494,7 @@ The site currently contains 12 features across 4 pages.
 <img src="">
 </details>
 
+[Back to Top](<#Table-of-Content>)
 ## Bugs
 
 | **Bug** | **Fix** |
@@ -499,6 +505,7 @@ The site currently contains 12 features across 4 pages.
 |  |  |
 |  |  |
 
+[Back to Top](<#Table-of-Content>)
 ## Deployment
 The website was deployed to GitHub Pages via the following:
 1.
@@ -519,14 +526,17 @@ You can clone the repository by following these steps:
 6. Type git clone and paste the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
 7.Press Enter to create your local clone.
 
-
+[Back to Top](<#Table-of-Content>)
 ## Credits
+
 
 ### Media
 
 ### Code
 
 ## Acknowledgements
+
+[Back to Top](<#Table-of-Content>)
 
 
 
