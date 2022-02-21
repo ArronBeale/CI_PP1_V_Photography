@@ -160,7 +160,7 @@ A logo is visible on the left of the navigation bar. There is a total of four pa
 - [Font Awesome](https://fontawesome.com/)
 
 - [Pexels.com](https://www.pexels.com/)
-- 
+
 [Back to Top](<#Table-of-Content>)
 ## Features
 The site currently contains 12 features across 4 pages.
