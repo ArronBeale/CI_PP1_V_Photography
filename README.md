@@ -189,18 +189,37 @@ The site currently contains 12 features across 4 pages.
 
 ### Newsletter Sign up
 - A newsletter to allow visitors to stay up to date with news and events.
+- Located on all pages
 
 ![Newsletter](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/features/feature-newsletter.PNG)
 
 ### Contact Information
+- Allows visitors to get contact details.
+
+![Contact information](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/features/feature-contact.PNG)
 
 ### Map
+- A map to give visitors directions to address of business.
+
+![Map](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/features/feature-map.PNG)
 
 ### Back to Top
+- Allows the visitor to navigate to top of the page instead of scrolling.
+- Located on all pages.
+
+![back to top](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/features/feature-back-to-top.PNG)
 
 ### Social Links
+- To provide links to all the Photographers social media platforms.
+- Located on all pages.
+
+![Social media links](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/features/feature-social-links.PNG)
 
 ### Footer
+- Comprises of social media links, back to top page and newsletter sign up .
+- located on all pages.
+
+![Footer](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/features/feature-footer.PNG)
 
 ## Validation
 
