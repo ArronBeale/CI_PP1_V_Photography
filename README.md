@@ -103,6 +103,10 @@ The site is designed to reflect the home of the Photographer to bring a sense of
 The imagery was selected to represent the mountains and snow of Bavaria.
 
 ### Color
+The colors chosen were blue and white to blend in with the hero image which has snowtop mountains and a clear blue sky.
+I then used the colors in the navigation and the footer.
+The blue colors were extracted as a hex from the hero image using https://imagecolorpicker.com/
+![Color selection image](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/color-selection.PNG)
 
 ### Fonts
 
