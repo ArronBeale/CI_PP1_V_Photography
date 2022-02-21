@@ -127,17 +127,14 @@ A logo is visible on the left of the navigation bar. There is a total of four pa
 <details><summary>Home</summary>
 <img src="docs/wireframes/wireframe-home.png"
 </details>
-   
 <details><summary>Gallery</summary>
-<img src="docs/wireframes/wireframe-gallery.png"
+<img src="docs/wireframes/wireframe-gallery.png">
 </details>
-      
 <details><summary>About</summary>
-<img src="docs/wireframes/wireframe-about.png"
+<img src="docs/wireframes/wireframe-about.png">
 </details>
-         
 <details><summary>Contact</summary>
-<img src="docs/wireframes/wireframe-contact.png"
+<img src="docs/wireframes/wireframe-contact.png">
 </details>
    
 ## Technologies Used
