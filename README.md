@@ -109,9 +109,19 @@ The blue colors were extracted as a hex from the hero image using https://imagec
 ![Color selection image](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/color-selection.PNG)
 
 ### Fonts
+The font selected to use for all headers was Sepctral SC, this gave the headings some definition to catch the eye.
+The main paragraph font chosen was Georgia as it is a very popular font and easy to read.
 
 ### Structure
+The site follows a familiar structure similar to alot of websites that are user friendly.
+On arrival you are greeted by the hero image with a heading to show it is a photography site. Navigation links are immediatly visible on the right of the navigation bar.
+A logo is visible on the left of the navigation bar. There is a total of four page:
 
+- Home page, has a picture of the Photographer and has a list f awards he has received
+- Gallery page, full of images the Photographer wishes to showcase
+- About page, where visitors can learn more about the Photographer
+- Contact page, where visitors can find contact information
+- 
 ### Wireframes
 
 ## Technologies Used
