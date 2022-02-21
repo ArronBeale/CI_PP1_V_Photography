@@ -159,19 +159,38 @@ A logo is visible on the left of the navigation bar. There is a total of four pa
 - [Pexels.com](https://www.pexels.com/)
 
 ## Features
-The site contains 4 pages and 11 features
+The site currently contains 12 features across 4 pages.
 
 ### Logo and Navigation Bar
+- Fully responsive on all screen sizes
+- Located on all pages
+- Allows easy navigation across the site
+![Logo and Navigation](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/features/feature-navigation-logo.PNG)
 
 ### Gallery
+- Masonry style gallery to allow a high volume of images in a small area.
+
+![Gallery](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/features/feature-gallery.PNG)
 
 ### Profile Image
+- A profile image of the Photographer on each page.
+
+![Profile picture](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/features/feature-profile-image.PNG)
 
 ### Awards
+- An awards section on the home page to showcase awards achieved.
+
+![Awards](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/features/feature-awards.PNG)
 
 ### About
+- An about me section to allow visitors to learn about the Photographer.
+
+![About Me](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/features/feature-about-me.PNG)
 
 ### Newsletter Sign up
+- A newsletter to allow visitors to stay up to date with news and events.
+
+![Newsletter](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/features/feature-newsletter.PNG)
 
 ### Contact Information
 
