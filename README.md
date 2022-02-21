@@ -11,7 +11,7 @@ Developer: Arron Beale
    2. [Site owner Goals](#site-owner-goals)
 2. [User Experience](#User-Experience)
    1. [Target Audience](#target-audience)
-   2. [User Requirments and Expectations](#user-requirments-and-expectations)
+   2. [User Requirements and Expectations](#user-requirments-and-expectations)
    3. [User Stories](#user-stories)
 3. [Design](#design)
    1. [Design Choices](#design-choices)
