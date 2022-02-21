@@ -121,7 +121,7 @@ A logo is visible on the left of the navigation bar. There is a total of four pa
 - Gallery page, full of images the Photographer wishes to showcase
 - About page, where visitors can learn more about the Photographer
 - Contact page, where visitors can find contact information
-- 
+
 ### Wireframes
 
 ## Technologies Used
