@@ -125,7 +125,7 @@ A logo is visible on the left of the navigation bar. There is a total of four pa
 ### Wireframes
 
 <details><summary>Home</summary>
-<img src="docs/wireframes/wireframe-home.png"
+<img src="docs/wireframes/wireframe-home.png">
 </details>
 <details><summary>Gallery</summary>
 <img src="docs/wireframes/wireframe-gallery.png">
