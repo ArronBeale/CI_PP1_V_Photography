@@ -39,66 +39,68 @@ Developer: Arron Beale
 ## Project Goals
 
 ### User Goals
--
--
--
--
+- To find a Photographer that they can hire or collaborate with.
+- View Photographers work in a Gallery.
+- Learn about the Photographer.
+- Find contact information.
 
 ### Site Owner Goals
--
--
--
--
+- Promote his business.
+- Showcase his work.
+- Provide information for customers to contact him.
+- Allow customers to learn about him.
 
 ## User Experience
 
 ### Target Audience
--
--
--
--
+- Potentianl new customers.
+- Previous customers for repeat business.
+- Other Photographers.
+- Collaborators.
 
 ### User Requirements and expectations
--
--
--
--
--
--
--
+- Accessibility
+- Information can be found easily.
+- An intuitive navigation.
+- Functional links that work.
+- Responsive design for mobile, tablet, laptop, desktop.
+- No overload of information
+- Visually appealing.
 
 ### User Stories
 
 ### First Time User
-1.
-2.
-3.
-4.
-5.
-6.
-7.
+1. Home page to show it is a photography site.
+2. Accessibility.
+3. Easy navigation.
+4. Information easily available, contact information, gallery, about.
+5. Links to social media available.
+6. Gallery of photographers work.
+7. Responsive design to work on phone, tablet, laptop and desktop.
 
 ### Returning User
-8.
-9.
-10
-11.
+8. All of the above.
+9. Accessibility.
+10. Easy navigation.
+11. A newsletter sign up.
 
 ### Site Owner
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-21.
+12. To showcase my photographs in a gallery.
+13. To have relevant keywords for search engines.
+14. To have accessibility for visitors.
+15. A responsive design for visitors to my site, phone, tablet, laptop, desktop.
+16. Navigation to be easy and intuitive.
+17. A home page, a gallery page, an about page and a contact page.
+18. Social media links on the bottom of each page.
+19. A google map on my contact page.
+20. My picture on the home page, very important!
+21. Visitors to sign up to my newsletter.
 
 ## Design
 
 ### Design Choices
+The site is designed to reflect the home of the Photographer to bring a sense of a personal connection.
+The imagery was selected to represent the mountains and snow of Bavaria.
 
 ### Color
 
