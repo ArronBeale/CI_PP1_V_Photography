@@ -14,23 +14,23 @@ Developer: Arron Beale
    2. [User Requirments and Expectations](#user-requirments-and-expectations)
    3. [User Stories](#user-storeis)
 3. [Design](#design)
-   1.
-   2.
-   3.
-   4.
-   5.
+   1. [Design Choices]
+   2. [Color]
+   3. [Fonts]
+   4. [Structure]
+   5. [Wireframes]
 4. [Technologies Used](#technologies-used)
-    1.
-    2.
+   1. [Languages](#Languages)
+   2. [Frameworks and Tools](#frameworks-and-tools)
 5. [Features](#features)
 6. [Testing](#validation)
-    1.
-    2.
-    3.
-    4.
-    5.
-    6.
-    7.
+   1. [HTML Validation](#HTML-validation)
+   2. [CSS Validation](#CSS-validation)
+   3. [Accessibility](#accessibility)
+   4. [Performance](#performace0
+   5. [Device Testing](#Performing-tests-on-devices)
+   6. [Browser Compatability](#browser-compatability)
+   7. [Testing User Stories](#testing-user-stories)
 8. [Bugs](#bugs)
 9. [Deployment](#deployment)
 10. [Credits](#credits)
