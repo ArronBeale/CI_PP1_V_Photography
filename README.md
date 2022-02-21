@@ -106,7 +106,7 @@ The imagery was selected to represent the mountains and snow of Bavaria.
 The colors chosen were blue and white to blend in with the hero image which has snowtop mountains and a clear blue sky.
 I then used the colors in the navigation and the footer.
 The blue colors were extracted as a hex from the hero image using https://imagecolorpicker.com/
-![Color selection image](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/color-selection.PNG)
+![Color selection image](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/features/color-selection.PNG)
 
 ### Fonts
 The font selected to use for all headers was Sepctral SC, this gave the headings some definition to catch the eye.
@@ -125,16 +125,16 @@ A logo is visible on the left of the navigation bar. There is a total of four pa
 ### Wireframes
 
 <details><summary>Home</summary>
-<img src="docs/wireframes/wireframe-home.png">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/wireframes/wireframe-home.PNG">
 </details>
 <details><summary>Gallery</summary>
-<img src="docs/wireframes/wireframe-gallery.png">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/wireframes/wireframe-gallery.PNG">
 </details>
 <details><summary>About</summary>
-<img src="docs/wireframes/wireframe-about.png">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/wireframes/wireframe-about.PNG">
 </details>
 <details><summary>Contact</summary>
-<img src="docs/wireframes/wireframe-contact.png">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/wireframes/wireframe-contact.PNG">
 </details>
    
 ## Technologies Used
