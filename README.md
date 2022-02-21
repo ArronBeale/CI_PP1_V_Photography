@@ -18,7 +18,7 @@ Developer: Arron Beale
    2. [Color](#colors)
    3. [Fonts](#fonts)
    4. [Structure](#structure)
-   5. [Wireframes](~wireframes)
+   5. [Wireframes](#wireframes)
 4. [Technologies Used](#technologies-used)
    1. [Languages](#Languages)
    2. [Frameworks and Tools](#frameworks-and-tools)
