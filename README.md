@@ -20,17 +20,17 @@ Developer: Arron Beale
    4.
    5.
 4. [Technologies Used](#technologies-used)
-   1.
-   2.
+    1.
+    2.
 5. [Features](#features)
 6. [Testing](#validation)
-   1.
-   2.
-   3.
-   4.
-   5.
-   6.
-   7.
+    1.
+    2.
+    3.
+    4.
+    5.
+    6.
+    7.
 8. [Bugs](#bugs)
 9. [Deployment](#deployment)
 10. [Credits](#credits)
