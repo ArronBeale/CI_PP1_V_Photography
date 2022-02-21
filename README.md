@@ -58,7 +58,7 @@ Developer: Arron Beale
 - Other Photographers.
 - Collaborators.
 
-### User Requirements and expectations
+### User Requirments and Expectations
 - Accessibility
 - Information can be found easily.
 - An intuitive navigation.
