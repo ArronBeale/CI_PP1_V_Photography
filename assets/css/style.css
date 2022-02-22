@@ -23,7 +23,7 @@ h3 {
     display: inline-block;
 }
 
-a:hover {
+.nav a:hover {
     text-decoration: underline;
 }
 
@@ -212,6 +212,7 @@ figcaption {
     padding: 20px;
     background-color: #75d3f9;
     background-image: linear-gradient(#75d3f9, white);
+    color: #1d7595;
 }
 
 .map-box {
@@ -247,7 +248,7 @@ input[type=submit]:hover {
 }
 
 .back-to-top {
-    color: black;
+    color: #1d7595;
 }
 
 #map-box {
