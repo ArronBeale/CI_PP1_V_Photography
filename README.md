@@ -39,34 +39,34 @@ Developer: Arron Beale
 ## Project Goals
 
 ### User Goals
-- To find a Photographer that they can hire or collaborate with.
-- View Photographers work in a Gallery.
-- Learn about the Photographer.
-- Find contact information.
+- To find a Photographer that they can hire or collaborate with
+- View Photographers work in a Gallery
+- Learn about the Photographer
+- Find contact information
 
 ### Site Owner Goals
-- Promote his business.
-- Showcase his work.
-- Provide information for customers to contact him.
-- Allow customers to learn about him.
+- Promote his business
+- Showcase his work
+- Provide information for customers to contact him
+- Allow customers to learn about him
 
 [Back to Top](<#Table-of-Content>)
 ## User Experience
 
 ### Target Audience
-- Potentianl new customers.
-- Previous customers for repeat business.
-- Other Photographers.
-- Collaborators.
+- Potentianl new customers
+- Previous customers for repeat business
+- Other Photographers
+- Collaborators
 
 ### User Requirments and Expectations
 - Accessibility
-- Information can be found easily.
-- An intuitive navigation.
-- Functional links that work.
-- Responsive design for mobile, tablet, laptop, desktop.
+- Information can be found easily
+- An intuitive navigation
+- Functional links that work
+- Responsive design for mobile, tablet, laptop, desktop
 - No overload of information
-- Visually appealing.
+- Visually appealing
 
 ### User Stories
 
