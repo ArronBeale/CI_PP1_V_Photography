@@ -286,12 +286,21 @@ Google Lighthouse was used to measure performance of all pages.
 </details>
 
 ### Performing Tests on Devices
-The following devices were used to test the website:
+The following devices were used to test the website via Google Chrome Dev Tools
+- iphone 5
+- iPad Air
+- iPad Mini
+- Surface Pro 7
+
+The following devices were tested using actual physical devices:
+- Samsung Galaxy A70
+- Samsung Galaxy S20
+- HP Laptop Model 15s-fq0024na
+
+### Browser Compatibility
 - Mozilla Firefox
 - Google Chrome
 - Microsoft Edge
-
-### Browser Compatibility
 
 ### Testing User Stories
 
