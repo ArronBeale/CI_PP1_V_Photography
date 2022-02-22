@@ -228,25 +228,24 @@ The site currently contains 12 features across 4 pages.
 [Back to Top](<#Table-of-Content>)
 ## Validation
 W3C Markup Validation Service was used. No errors or warnings were reported.
+
 ### HTML Validation
 <details><summary>Home</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-html-home.PNG">
 </details>
-
 <details><summary>Gallery</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-html-gallery.PNG">
 </details>
-
 <details><summary>About</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-html-about.PNG">
 </details>
-
 <details><summary>Contact</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-html-contact.PNG">
 </details>
 
 ### CSS Validation
 W3C Jigsaw Validation Service was used, 1 warning was referenced which was to warn it does not check imported Google Fonts.
+
 <details><summary>style.css</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-css-style.PNG">
 </details>
@@ -257,15 +256,12 @@ WAVE Web Accessibility Evaluation Tool was used to check for any accessibility i
 <details><summary>Home</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-accessibility-home.PNG">
 </details>
-
 <details><summary>Gallery</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-accessibility-gallery.PNG">
 </details>
-
 <details><summary>About</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-accessibility-about.PNG">
 </details>
-
 <details><summary>Contact</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-accessibility-contact.PNG">
 </details>
@@ -289,8 +285,11 @@ Google Lighthouse was used to measure performance of all pages.
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/performance_lighthouse_contact.PNG">
 </details>
 
-
 ### Performing Tests on Devices
+The following devices were used to test the website:
+- Mozilla Firefox
+- Google Chrome
+- Microsoft Edge
 
 ### Browser Compatibility
 
@@ -562,10 +561,10 @@ Google Lighthouse was used to measure performance of all pages.
 [Back to Top](<#Table-of-Content>)
 ## Deployment
 The website was deployed to GitHub Pages via the following:
-1.
-2.
-3.
-4.
+1. From Github repository select settings
+2. Select pages from the left menu
+3. Select the master branch
+4. When the page refreshes you will see a message to notify you the site is now published
 
 You can for fork the repository by following these steps:
 1. Go to the GitHub repository
