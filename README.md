@@ -27,7 +27,7 @@ Developer: Arron Beale
    1. [HTML Validation](#HTML-validation)
    2. [CSS Validation](#CSS-validation)
    3. [Accessibility](#accessibility)
-   4. [Performance](#performace)
+   4. [Performance](#performance)
    5. [Device Testing](#Performing-tests-on-devices)
    6. [Browser Compatability](#browser-compatability)
    7. [Testing User Stories](#testing-user-stories)
