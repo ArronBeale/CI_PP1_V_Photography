@@ -41,7 +41,7 @@ a:hover {
 }
 
 a {
-    color: #2596be;
+    color: #2389af;
     text-decoration: none;
 }
 
@@ -243,6 +243,10 @@ input[type=submit]:hover {
     padding: 20px;
     margin: 20px;
     font-size: 1.1em;
+}
+
+.back-to-top > a {
+    color: #2389af;
 }
 
 #map-box {
