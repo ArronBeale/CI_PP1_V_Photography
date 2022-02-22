@@ -227,10 +227,29 @@ The site currently contains 12 features across 4 pages.
 
 [Back to Top](<#Table-of-Content>)
 ## Validation
-
+W3C Markup Validation Service was used. No errors or warnings were reported.
 ### HTML Validation
+<details><summary>Home</summary>
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-html-home.PNG">
+</details>
+
+<details><summary>Gallery</summary>
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-html-gallery.PNG">
+</details>
+
+<details><summary>About</summary>
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-html-about.PNG">
+</details>
+
+<details><summary>Contact</summary>
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-html-contact.PNG">
+</details>
 
 ### CSS Validation
+W3C Jigsaw Validation Service was used, 1 warning was referenced which was to warn it does not check imported Google Fonts.
+<details><summary>style.css</summary>
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-css-style.PNG">
+</details>
 
 ### Accessibility
 
