@@ -252,7 +252,7 @@ W3C Jigsaw Validation Service was used, 1 warning was referenced which was to wa
 </details>
 
 ### Accessibility
-WAVE Web Accessibility Evaluation Tool was used to check for any accessibility issues, no errors or warnings reported.
+WAVE Web Accessibility Evaluation Tool was used to check for any accessibility issues, no errors were reported.
 
 <details><summary>Home</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-accessibility-home.PNG">
@@ -271,6 +271,24 @@ WAVE Web Accessibility Evaluation Tool was used to check for any accessibility i
 </details>
 
 ### Performance
+Google Lighthouse was used to measure performance of all pages.
+
+<details><summary>Home</summary>
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/performance_lighthouse_home.PNG">
+</details>
+
+<details><summary>Gallery</summary>
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/performance_lighthouse_gallery.PNG">
+</details>
+
+<details><summary>About</summary>
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/performance_lighthouse_about.PNG">
+</details>
+
+<details><summary>Contact</summary>
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/performance_lighthouse_contact.PNG">
+</details>
+
 
 ### Performing Tests on Devices
 
