@@ -15,7 +15,7 @@ Developer: Arron Beale
    3. [User Stories](#user-stories)
 3. [Design](#design)
    1. [Design Choices](#design-choices)
-   2. [Color](#colors)
+   2. [Color](#color)
    3. [Fonts](#fonts)
    4. [Structure](#structure)
    5. [Wireframes](#wireframes)
