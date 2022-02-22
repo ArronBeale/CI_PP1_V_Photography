@@ -270,19 +270,19 @@ WAVE Web Accessibility Evaluation Tool was used to check for any accessibility i
 Google Lighthouse was used to measure performance of all pages.
 
 <details><summary>Home</summary>
-<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/performance_lighthouse_home.PNG">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/performance-lighthouse-home.PNG">
 </details>
 
 <details><summary>Gallery</summary>
-<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/performance_lighthouse_gallery.PNG">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/performance-lighthouse-gallery.PNG">
 </details>
 
 <details><summary>About</summary>
-<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/performance_lighthouse_about.PNG">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/performance-lighthouse-about.PNG">
 </details>
 
 <details><summary>Contact</summary>
-<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/performance_lighthouse_contact.PNG">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/performance-lighthouse-contact.PNG">
 </details>
 
 ### Performing Tests on Devices
