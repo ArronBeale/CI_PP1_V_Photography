@@ -320,8 +320,7 @@ First Time User:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Alternate image text  | On code review all images have alt text |  | Passed |
-| Valid contrast | WAVE Accessibility test on all pages | All pages pass accessibility test | Passed |
+| Accessibility Test | WAVE Accessibility test on all pages | All pages pass accessibility test | Passed |
 
 <details><summary>Images</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-2-9-14.png">
@@ -396,7 +395,7 @@ Returning User:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| All of the above | See above results | See above results |See above results  |
+| See Above Results | See Above Results | See above results | Passed |
 |  |  |  |  |
 
 
@@ -404,8 +403,7 @@ Returning User:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
-|  |  |  |  |
+| Accessibility Test | WAVE Accessibility test on all pages | All pages pass accessibility test | Passed |
 
 <details><summary>Images</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-2-9-14.png">
@@ -417,8 +415,8 @@ Returning User:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
-|  |  |  |  |
+| Navigation Bar | Use navigation links to access each page | Move to each page | Passed |
+| Back to Top button | Scroll to footer, click back to to top button | Jump to top of page | Passed |
 
 <details><summary>Images</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17.png">
@@ -429,7 +427,7 @@ Returning User:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
+| Newsletter Sign Up | Scroll to bottom of any page, see newsletter sign up feature | Allows sign up to newsletter | Passed |
 |  |  |  |  |
 
 <details><summary>Images</summary>
@@ -441,7 +439,7 @@ Site Owner:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
+| Gallery Page | Navigate to gallery page via navigation bar. Arrive at gallery, scroll down. | Full gallery visible | Passed |
 |  |  |  |  |
 
 <details><summary>Images</summary>
@@ -454,7 +452,7 @@ Site Owner:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
+| Keywords | Code review of Meta, check for keyword presence. | Fin all relevant keywords to photography | Passed |
 |  |  |  |  |
 
 <details><summary>Images</summary>
