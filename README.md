@@ -308,8 +308,8 @@ First Time User:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
-|  |  |  |  |
+| Homepage | land on homepage upon visiting site |Heading states V Photography to show it is a photography site.  | Passed |
+| Welcome paragraph  | On homepage scroll down | See welcome paragraph explaining Victor is a Photographer. | Passed |
 
 <details><summary>Images</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-1.png">
@@ -320,8 +320,8 @@ First Time User:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
-|  |  |  |  |
+| Alternate image text  | On code review all images have alt text |  | Passed |
+| Valid contrast | WAVE Accessibility test on all pages | All pages pass accessibility test | Passed |
 
 <details><summary>Images</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-2-9-14.png">
@@ -333,8 +333,8 @@ First Time User:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
-|  |  |  |  |
+| Navigation Bar | Use navigation links to access each page | Move to each page | Passed |
+| Back to Top button | Scroll to footer, click back to to top button | Jump to top of page | Passed |
 
 <details><summary>Images</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17.png">
@@ -345,8 +345,8 @@ First Time User:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
-|  |  |  |  |
+| Navigation Bar | Use navigation links to access each page | Move to each page | Passed |
+| Contact information | navigate to contact page, scroll down, see contact information section. | All contact information visible.  | Passed |
 
 <details><summary>Images</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17.png">
@@ -357,7 +357,7 @@ First Time User:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
+| Footer | Scroll to bottom of each page, see social media links. | All social media links work and visible on bottom of each page | Passed |
 |  |  |  |  |
 
 <details><summary>Images</summary>
@@ -369,7 +369,7 @@ First Time User:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
+| Gallery Page | Navigate to gallery page via navigation bar. Arrive at gallery, scroll down. | Full gallery visible | Passed |
 |  |  |  |  |
 
 <details><summary>Images</summary>
