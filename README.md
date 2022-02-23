@@ -315,7 +315,7 @@ First Time User:
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-1.png">
 <img src="">
 </details>
-
+---
 2. Accessibility. 
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
@@ -328,7 +328,7 @@ First Time User:
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17.png">
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-accessibility-home.PNG">
 </details>
-
+---
 3.Easy navigation.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
@@ -340,7 +340,7 @@ First Time User:
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17.png">
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17b.png">
 </details>
-
+---
 4.Information easily available, contact information, gallery, about.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
@@ -352,7 +352,7 @@ First Time User:
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17.png">
 <img src="">
 </details>
-
+---
 5.Links to social media available.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
@@ -364,7 +364,7 @@ First Time User:
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-5.png">
 <img src="">
 </details>
-
+---
 6.Gallery of photographers work.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
@@ -377,7 +377,7 @@ First Time User:
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-6-12b.png">
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-6-12c.png">
 </details>
-
+---
 7.Responsive design to work on phone, tablet, laptop and desktop.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
@@ -390,7 +390,7 @@ First Time User:
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-7b.png">
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-7c.png">
 </details>
-
+---
 Returning User:
 8. All of the above.
 
@@ -399,7 +399,7 @@ Returning User:
 | All of the above | See above results | See above results |See above results  |
 |  |  |  |  |
 
-
+---
 9. Accessibility.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
@@ -412,7 +412,7 @@ Returning User:
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17.png">
 <img src="<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-accessibility-home.PNG">">
 </details>
-
+---
 10. Easy navigation.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
@@ -424,7 +424,7 @@ Returning User:
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17.png">
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17b.png">
 </details>
-
+---
 11. A newsletter sign up.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
@@ -435,7 +435,7 @@ Returning User:
 <details><summary>Images</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-11.png">
 </details>
-
+---
 Site Owner:
 12. To showcase my photographs in a gallery.
 
@@ -449,7 +449,7 @@ Site Owner:
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-6-12b.png">
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-6-12c.png">
 </details>
-
+---
 13. To have relevant keywords for search engines.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
@@ -460,7 +460,7 @@ Site Owner:
 <details><summary>Images</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-13.PNG">
 </details>
-
+---
 14. To have accessibility for visitors.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
@@ -472,7 +472,7 @@ Site Owner:
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17.png">
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-2-9-14.png">
 </details>
-
+---
 15. A responsive design for visitors to my site, phone, tablet, laptop, desktop.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
@@ -485,7 +485,7 @@ Site Owner:
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-7b.png">
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-7c.png">
 </details>
-
+---
 16. Navigation to be easy and intuitive.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
@@ -497,7 +497,7 @@ Site Owner:
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17.png">
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17b.png">
 </details>
-
+---
 17. A home page, a gallery page, an about page and a contact page.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
@@ -508,7 +508,7 @@ Site Owner:
 <details><summary>Images</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17.png">
 </details>
-
+---
 18. Social media links on the bottom of each page.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
@@ -519,7 +519,7 @@ Site Owner:
 <details><summary>Images</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-5.png">
 </details>
-
+---
 19. A google map on my contact page.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
@@ -530,7 +530,7 @@ Site Owner:
 <details><summary>Images</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-19.png">
 </details>
-
+---
 20. My picture on the home page, very important!
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
@@ -541,7 +541,7 @@ Site Owner:
 <details><summary>Images</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-20.png">
 </details>
-
+---
 21. Visitors to sign up to my newsletter.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
