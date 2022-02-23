@@ -311,8 +311,8 @@ First Time User:
 |  |  |  |  |
 |  |  |  |  |
 
-<details><summary>X</summary>
-<img src="">
+<details><summary>Images</summary>
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-1.png">
 <img src="">
 </details>
 
@@ -323,9 +323,9 @@ First Time User:
 |  |  |  |  |
 |  |  |  |  |
 
-<details><summary>X</summary>
-<img src="">
-<img src="">
+<details><summary>Images</summary>
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-2-9-14.png">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17.png">
 </details>
 
 3.Easy navigation.
@@ -335,9 +335,9 @@ First Time User:
 |  |  |  |  |
 |  |  |  |  |
 
-<details><summary>X</summary>
-<img src="">
-<img src="">
+<details><summary>Images</summary>
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17.png">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17b.png">
 </details>
 
 4.Information easily available, contact information, gallery, about.
@@ -347,8 +347,8 @@ First Time User:
 |  |  |  |  |
 |  |  |  |  |
 
-<details><summary>X</summary>
-<img src="">
+<details><summary>Images</summary>
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17.png">
 <img src="">
 </details>
 
@@ -359,8 +359,8 @@ First Time User:
 |  |  |  |  |
 |  |  |  |  |
 
-<details><summary>X</summary>
-<img src="">
+<details><summary>Images</summary>
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-5.png">
 <img src="">
 </details>
 
@@ -371,9 +371,10 @@ First Time User:
 |  |  |  |  |
 |  |  |  |  |
 
-<details><summary>X</summary>
-<img src="">
-<img src="">
+<details><summary>Images</summary>
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-6-12a.png">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-6-12b.png">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-6-12c.png">
 </details>
 
 7.Responsive design to work on phone, tablet, laptop and desktop.
@@ -383,7 +384,7 @@ First Time User:
 |  |  |  |  |
 |  |  |  |  |
 
-<details><summary>X</summary>
+<details><summary>Images</summary>
 <img src="">
 <img src="">
 </details>
@@ -396,7 +397,7 @@ Returning User:
 |  |  |  |  |
 |  |  |  |  |
 
-<details><summary>X</summary>
+<details><summary>Images</summary>
 <img src="">
 <img src="">
 </details>
@@ -408,7 +409,7 @@ Returning User:
 |  |  |  |  |
 |  |  |  |  |
 
-<details><summary>X</summary>
+<details><summary>Images</summary>
 <img src="">
 <img src="">
 </details>
@@ -420,7 +421,7 @@ Returning User:
 |  |  |  |  |
 |  |  |  |  |
 
-<details><summary>X</summary>
+<details><summary>Images</summary>
 <img src="">
 <img src="">
 </details>
@@ -432,7 +433,7 @@ Returning User:
 |  |  |  |  |
 |  |  |  |  |
 
-<details><summary>X</summary>
+<details><summary>Images</summary>
 <img src="">
 <img src="">
 </details>
@@ -445,7 +446,7 @@ Site Owner:
 |  |  |  |  |
 |  |  |  |  |
 
-<details><summary>X</summary>
+<details><summary>Images</summary>
 <img src="">
 <img src="">
 </details>
@@ -457,7 +458,7 @@ Site Owner:
 |  |  |  |  |
 |  |  |  |  |
 
-<details><summary>X</summary>
+<details><summary>Images</summary>
 <img src="">
 <img src="">
 </details>
@@ -469,7 +470,7 @@ Site Owner:
 |  |  |  |  |
 |  |  |  |  |
 
-<details><summary>X</summary>
+<details><summary>Images</summary>
 <img src="">
 <img src="">
 </details>
@@ -481,7 +482,7 @@ Site Owner:
 |  |  |  |  |
 |  |  |  |  |
 
-<details><summary>X</summary>
+<details><summary>Images</summary>
 <img src="">
 <img src="">
 </details>
@@ -493,7 +494,7 @@ Site Owner:
 |  |  |  |  |
 |  |  |  |  |
 
-<details><summary>X</summary>
+<details><summary>Images</summary>
 <img src="">
 <img src="">
 </details>
@@ -505,7 +506,7 @@ Site Owner:
 |  |  |  |  |
 |  |  |  |  |
 
-<details><summary>X</summary>
+<details><summary>Images</summary>
 <img src="">
 <img src="">
 </details>
@@ -517,7 +518,7 @@ Site Owner:
 |  |  |  |  |
 |  |  |  |  |
 
-<details><summary>X</summary>
+<details><summary>Images</summary>
 <img src="">
 <img src="">
 </details>
@@ -529,7 +530,7 @@ Site Owner:
 |  |  |  |  |
 |  |  |  |  |
 
-<details><summary>X</summary>
+<details><summary>Images</summary>
 <img src="">
 <img src="">
 </details>
@@ -541,7 +542,7 @@ Site Owner:
 |  |  |  |  |
 |  |  |  |  |
 
-<details><summary>X</summary>
+<details><summary>Images</summary>
 <img src="">
 <img src="">
 </details>
@@ -553,7 +554,7 @@ Site Owner:
 |  |  |  |  |
 |  |  |  |  |
 
-<details><summary>X</summary>
+<details><summary>Images</summary>
 <img src="">
 <img src="">
 </details>
