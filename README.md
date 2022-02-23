@@ -323,8 +323,6 @@ First Time User:
 | Accessibility Test | WAVE Accessibility test on all pages | All pages pass accessibility test | Passed |
 
 <details><summary>Images</summary>
-<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-2-9-14.png">
-<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17.png">
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-accessibility-home.PNG">
 </details>
 
@@ -406,8 +404,6 @@ Returning User:
 | Accessibility Test | WAVE Accessibility test on all pages | All pages pass accessibility test | Passed |
 
 <details><summary>Images</summary>
-<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-2-9-14.png">
-<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17.png">
 <img src="<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-accessibility-home.PNG">">
 </details>
 
