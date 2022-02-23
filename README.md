@@ -326,6 +326,7 @@ First Time User:
 <details><summary>Images</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-2-9-14.png">
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17.png">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-accessibility-home.PNG">
 </details>
 
 3.Easy navigation.
@@ -385,8 +386,9 @@ First Time User:
 |  |  |  |  |
 
 <details><summary>Images</summary>
-<img src="">
-<img src="">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-7a.png">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-7b.png">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-7c.png">
 </details>
 
 Returning User:
@@ -394,13 +396,9 @@ Returning User:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
+| All of the above | See above results | See above results |See above results  |
 |  |  |  |  |
 
-<details><summary>Images</summary>
-<img src="">
-<img src="">
-</details>
 
 9. Accessibility.
 
@@ -410,8 +408,9 @@ Returning User:
 |  |  |  |  |
 
 <details><summary>Images</summary>
-<img src="">
-<img src="">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-2-9-14.png">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17.png">
+<img src="<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-accessibility-home.PNG">">
 </details>
 
 10. Easy navigation.
@@ -422,8 +421,8 @@ Returning User:
 |  |  |  |  |
 
 <details><summary>Images</summary>
-<img src="">
-<img src="">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17.png">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17b.png">
 </details>
 
 11. A newsletter sign up.
@@ -434,8 +433,7 @@ Returning User:
 |  |  |  |  |
 
 <details><summary>Images</summary>
-<img src="">
-<img src="">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-11.png">
 </details>
 
 Site Owner:
@@ -447,8 +445,9 @@ Site Owner:
 |  |  |  |  |
 
 <details><summary>Images</summary>
-<img src="">
-<img src="">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-6-12a.png">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-6-12b.png">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-6-12c.png">
 </details>
 
 13. To have relevant keywords for search engines.
@@ -459,8 +458,7 @@ Site Owner:
 |  |  |  |  |
 
 <details><summary>Images</summary>
-<img src="">
-<img src="">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-13.PNG">
 </details>
 
 14. To have accessibility for visitors.
@@ -471,8 +469,8 @@ Site Owner:
 |  |  |  |  |
 
 <details><summary>Images</summary>
-<img src="">
-<img src="">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17.png">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-2-9-14.png">
 </details>
 
 15. A responsive design for visitors to my site, phone, tablet, laptop, desktop.
@@ -483,8 +481,9 @@ Site Owner:
 |  |  |  |  |
 
 <details><summary>Images</summary>
-<img src="">
-<img src="">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-7a.png">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-7b.png">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-7c.png">
 </details>
 
 16. Navigation to be easy and intuitive.
@@ -495,8 +494,8 @@ Site Owner:
 |  |  |  |  |
 
 <details><summary>Images</summary>
-<img src="">
-<img src="">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17.png">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17b.png">
 </details>
 
 17. A home page, a gallery page, an about page and a contact page.
@@ -507,8 +506,7 @@ Site Owner:
 |  |  |  |  |
 
 <details><summary>Images</summary>
-<img src="">
-<img src="">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17.png">
 </details>
 
 18. Social media links on the bottom of each page.
@@ -519,8 +517,7 @@ Site Owner:
 |  |  |  |  |
 
 <details><summary>Images</summary>
-<img src="">
-<img src="">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-5.png">
 </details>
 
 19. A google map on my contact page.
@@ -531,8 +528,7 @@ Site Owner:
 |  |  |  |  |
 
 <details><summary>Images</summary>
-<img src="">
-<img src="">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-19.png">
 </details>
 
 20. My picture on the home page, very important!
@@ -543,8 +539,7 @@ Site Owner:
 |  |  |  |  |
 
 <details><summary>Images</summary>
-<img src="">
-<img src="">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-20.png">
 </details>
 
 21. Visitors to sign up to my newsletter.
@@ -555,8 +550,7 @@ Site Owner:
 |  |  |  |  |
 
 <details><summary>Images</summary>
-<img src="">
-<img src="">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-11.png">
 </details>
 
 [Back to Top](<#Table-of-Content>)
