@@ -303,20 +303,8 @@ The following devices were tested using actual physical devices:
 - Microsoft Edge
 
 ### Testing User Stories
-
-1.
-
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-|  |  |  |  |
-|  |  |  |  |
-
-<details><summary>X</summary>
-<img src="">
-<img src="">
-</details>
-
-2.
+First Time User:
+1. Home page to show it is a photography site.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -328,7 +316,7 @@ The following devices were tested using actual physical devices:
 <img src="">
 </details>
 
-3.
+2. Accessibility. 
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -340,7 +328,7 @@ The following devices were tested using actual physical devices:
 <img src="">
 </details>
 
-4.
+3.Easy navigation.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -352,7 +340,7 @@ The following devices were tested using actual physical devices:
 <img src="">
 </details>
 
-5.
+4.Information easily available, contact information, gallery, about.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -364,7 +352,7 @@ The following devices were tested using actual physical devices:
 <img src="">
 </details>
 
-6.
+5.Links to social media available.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -376,7 +364,7 @@ The following devices were tested using actual physical devices:
 <img src="">
 </details>
 
-7.
+6.Gallery of photographers work.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -388,7 +376,7 @@ The following devices were tested using actual physical devices:
 <img src="">
 </details>
 
-8.
+7.Responsive design to work on phone, tablet, laptop and desktop.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -400,7 +388,8 @@ The following devices were tested using actual physical devices:
 <img src="">
 </details>
 
-9.
+Returning User:
+8. All of the above.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -412,7 +401,7 @@ The following devices were tested using actual physical devices:
 <img src="">
 </details>
 
-10.
+9. Accessibility.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -424,7 +413,7 @@ The following devices were tested using actual physical devices:
 <img src="">
 </details>
 
-11.
+10. Easy navigation.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -436,7 +425,7 @@ The following devices were tested using actual physical devices:
 <img src="">
 </details>
 
-12.
+11. A newsletter sign up.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -448,7 +437,8 @@ The following devices were tested using actual physical devices:
 <img src="">
 </details>
 
-13.
+Site Owner:
+12. To showcase my photographs in a gallery.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -460,7 +450,7 @@ The following devices were tested using actual physical devices:
 <img src="">
 </details>
 
-14.
+13. To have relevant keywords for search engines.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -472,7 +462,7 @@ The following devices were tested using actual physical devices:
 <img src="">
 </details>
 
-15.
+14. To have accessibility for visitors.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -484,7 +474,7 @@ The following devices were tested using actual physical devices:
 <img src="">
 </details>
 
-16.
+15. A responsive design for visitors to my site, phone, tablet, laptop, desktop.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -496,7 +486,7 @@ The following devices were tested using actual physical devices:
 <img src="">
 </details>
 
-17.
+16. Navigation to be easy and intuitive.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -508,7 +498,7 @@ The following devices were tested using actual physical devices:
 <img src="">
 </details>
 
-18.
+17. A home page, a gallery page, an about page and a contact page.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -520,7 +510,7 @@ The following devices were tested using actual physical devices:
 <img src="">
 </details>
 
-19.
+18. Social media links on the bottom of each page.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -532,7 +522,7 @@ The following devices were tested using actual physical devices:
 <img src="">
 </details>
 
-20.
+19. A google map on my contact page.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -544,7 +534,19 @@ The following devices were tested using actual physical devices:
 <img src="">
 </details>
 
-21.
+20. My picture on the home page, very important!
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>X</summary>
+<img src="">
+<img src="">
+</details>
+
+21. Visitors to sign up to my newsletter.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
