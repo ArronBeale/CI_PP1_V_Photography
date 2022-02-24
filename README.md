@@ -404,7 +404,7 @@ Returning User:
 | Accessibility Test | WAVE Accessibility test on all pages | All pages pass accessibility test | Passed |
 
 <details><summary>Images</summary>
-<img src="<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-accessibility-home.PNG">">
+<img src="<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-accessibility-home.PNG">
 </details>
 
 10. Easy navigation.
@@ -462,7 +462,7 @@ Site Owner:
 | Accessibility Test | WAVE Accessibility test on all pages | All pages pass accessibility test | Passed |
 
 <details><summary>Images</summary>
-<img src="<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-accessibility-home.PNG">">
+<img src="<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-accessibility-home.PNG">
 </details>
 
 15. A responsive design for visitors to my site, phone, tablet, laptop, desktop.
