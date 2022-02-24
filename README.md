@@ -379,7 +379,7 @@ First Time User:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
+| Responsive design | On Google Chrome or smilar access Dev Tools via F12, select device such as iPhone, iPad etc. | Device emulator wll show responsive design on selected device | Passed |
 |  |  |  |  |
 
 <details><summary>Images</summary>
@@ -448,7 +448,7 @@ Site Owner:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Keywords | Code review of Meta, check for keyword presence. | Fin all relevant keywords to photography | Passed |
+| Keywords | Code review of Meta, check for keyword presence. | Find all relevant keywords to photography | Passed |
 |  |  |  |  |
 
 <details><summary>Images</summary>
@@ -459,19 +459,17 @@ Site Owner:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
-|  |  |  |  |
+| Accessibility Test | WAVE Accessibility test on all pages | All pages pass accessibility test | Passed |
 
 <details><summary>Images</summary>
-<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17.png">
-<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-2-9-14.png">
+<img src="<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-accessibility-home.PNG">">
 </details>
 
 15. A responsive design for visitors to my site, phone, tablet, laptop, desktop.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
+| Responsive design | On Google Chrome or smilar access Dev Tools via F12, select device such as iPhone, iPad etc. | Device emulator wll show responsive design on selected device | Passed |
 |  |  |  |  |
 
 <details><summary>Images</summary>
@@ -484,8 +482,8 @@ Site Owner:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
-|  |  |  |  |
+| Navigation Bar | Use navigation links to access each page | Move to each page | Passed |
+| Back to Top button | Scroll to footer, click back to to top button | Jump to top of page | Passed |
 
 <details><summary>Images</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17.png">
@@ -496,29 +494,31 @@ Site Owner:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
-|  |  |  |  |
+| Navigation Bar | Use navigation links to access each page | Move to each page | Passed |
+| Back to Top button | Scroll to footer, click back to to top button | Jump to top of page | Passed |
 
 <details><summary>Images</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17.png">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17b.png">
 </details>
 
 18. Social media links on the bottom of each page.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
+| Footer | Scroll to bottom of each page, see social media links. | All social media links work and visible on bottom of each page | Passed |
 |  |  |  |  |
 
 <details><summary>Images</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-5.png">
+<img src="">
 </details>
 
 19. A Google Map on my contact page.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
+| Map | Navigate to contact page, scroll down and find Google Map. | Find Map | Passed |
 |  |  |  |  |
 
 <details><summary>Images</summary>
@@ -529,7 +529,7 @@ Site Owner:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
+| Profile Picture | Navigate to any page, scroll down. | Find profile image. | Passed |
 |  |  |  |  |
 
 <details><summary>Images</summary>
@@ -540,7 +540,7 @@ Site Owner:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
+| Newsletter Sign Up | Scroll to bottom of any page, see newsletter sign up feature | Allows sign up to newsletter | Passed |
 |  |  |  |  |
 
 <details><summary>Images</summary>
