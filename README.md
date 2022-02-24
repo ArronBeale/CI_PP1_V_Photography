@@ -552,8 +552,8 @@ Site Owner:
 
 | **Bug** | **Fix** |
 | ----------- | ----------- |
-|  |  |
-|  |  |
+| Images not showing on deployed site | Image file paths began with "/", fixed links to images and removed "/" at beginning of links. |
+| Div container did not have CSS applied.  | CSS rule had an error in syntax, was expecting ";" but had ":", replaced with correct syntax. |
 |  |  |
 |  |  |
 |  |  |
@@ -581,12 +581,20 @@ You can clone the repository by following these steps:
 
 [Back to Top](<#Table-of-Content>)
 ## Credits
-
+ 
 
 ### Media
 
 ### Code
+- Imported Google Fonts.
+- Google Map code in order to embed on contact page.
+- GitHub Docs provided 404 page seetup.
 
 ## Acknowledgements
+
+Special thanks to the following:
+- Code Institute for providing this learning platform.
+- My Mentor Mo Shami for the valuable guidance and advice.
+- CI Slack Community for assistance in any help or queries asked.
 
 [Back to Top](<#Table-of-Content>)
