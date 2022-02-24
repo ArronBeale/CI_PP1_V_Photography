@@ -297,6 +297,24 @@ input[type=submit]:hover {
     color: black;
 }
 
+#error-container {
+    width: 100%;
+    height: 600px;
+    object-fit: contain;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#error-image {
+    background-image: url("/assets/images/404.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 600px;
+    background-size: cover;
+    overflow: hidden;
+}
+
 /* Media queries for small screens */
 @media screen and (max-width: 320px) {
     .hero-image {
