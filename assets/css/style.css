@@ -306,7 +306,7 @@ input[type=submit]:hover {
     text-align: center;
 }
 #error-image {
-    background-image: url("/assets/images/404.jpg");
+    background-image: url("assets/images/404.jpg");
     background-position: top;
     background-repeat: no-repeat;
     width: 100%;
