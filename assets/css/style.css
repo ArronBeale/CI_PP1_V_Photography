@@ -196,8 +196,8 @@ figcaption {
 #contact-container {
     width: 100%;
     position: relative;
+    padding-right: 5%;
     text-align: center;
-    padding: 50px;
     display: inline-block;
     background-image: linear-gradient(to top, #75d3f9, white);
 }
@@ -213,7 +213,7 @@ textarea {
 #contact-form {
     width: 100%;
     display: block;
-    padding-left: 10%;
+    padding-left: 5%;
     padding-top: 100px;
     margin-bottom: 100px;
     text-align: left;
@@ -223,7 +223,8 @@ textarea {
 
 .form-input {
     display: block;
-    border: 1px solid black;
+    border: 0.5px solid black;
+    padding-left: 5px;
     border-radius: 20px;
 }
 
@@ -381,7 +382,7 @@ input[type=submit]:hover {
     }
 
     #contact-form {
-        padding-left: 10%;
+        padding-left: 5%;
     }
 }
 
@@ -425,7 +426,7 @@ input[type=submit]:hover {
     }
 
     #contact-form {
-        padding-left: 10%;
+        padding-left: 5%;
     }
 }
 
@@ -447,5 +448,9 @@ input[type=submit]:hover {
 
     .newsletter-signup {
         width: 100%;
+    }
+
+    #contact-form {
+        padding-left: 5%;
     }
 }
