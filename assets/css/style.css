@@ -197,7 +197,7 @@ figcaption {
     width: 100%;
     position: relative;
     text-align: center;
-    padding-right: 50px;
+    padding: 50px;
     display: inline-block;
     background-image: linear-gradient(to top, #75d3f9, white);
 }
