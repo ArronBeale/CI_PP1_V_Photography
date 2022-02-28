@@ -197,11 +197,34 @@ figcaption {
     width: 100%;
     position: relative;
     text-align: center;
-    padding: 50px;
+    padding-right: 50px;
+    display: inline-block;
+    background-image: linear-gradient(to top, #75d3f9, white);
 }
 
 #contact-container>h2 {
     text-decoration: underline;
+}
+
+textarea {
+    resize: vertical;
+}
+
+#contact-form {
+    width: 100%;
+    display: block;
+    padding-left: 10%;
+    padding-top: 100px;
+    margin-bottom: 100px;
+    text-align: left;
+    display: inline-block;
+    background-image: linear-gradient(#75d3f9, white);
+}
+
+.form-input {
+    display: block;
+    border: 1px solid black;
+    border-radius: 20px;
 }
 
 .newsletter-signup {
@@ -357,6 +380,9 @@ input[type=submit]:hover {
         width: 100%;
     }
 
+    #contact-form {
+        padding-left: 10%;
+    }
 }
 
 /* Media queries for medium screens */
@@ -394,6 +420,13 @@ input[type=submit]:hover {
         width: 100%;
     }
 
+    #contact-form {
+        padding-left: 10%;
+    }
+
+    #contact-form {
+        padding-left: 10%;
+    }
 }
 
 /* Media queries for laptops */
