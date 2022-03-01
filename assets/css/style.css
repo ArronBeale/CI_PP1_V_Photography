@@ -116,14 +116,19 @@ h3 {
     min-height: 80px;
 }
 
-/* reserved for future content */
-.awards-img {
+.about-image {
+    width: 50%;
+    height: 100px;
     border-radius: 50%;
+    height: 50px;
+    object-fit: contain;
+    position: relative;
 }
 
 .flexbox-item2 {
     min-height: 100px;
     padding: 10px;
+    font-size: 1.2em;
 }
 
 #image-bg-container {
@@ -165,14 +170,13 @@ h3 {
 #article-container {
     width: 100%;
     margin-top: 100px;
-    border: 1px solid #2596BE;
 }
 
 #article-container h2, p {
     padding-left: 15px;
 }
 
-#gopro-video {
+.about-video {
     position: relative;
     padding: 10px;
     padding-top: 50px;
