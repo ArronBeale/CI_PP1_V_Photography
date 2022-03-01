@@ -167,9 +167,13 @@ h3 {
     object-fit: scale-down;
 }
 
+#article-box {
+    background-image: linear-gradient(to top,#75d3f9, white);
+}
 #article-container {
     width: 100%;
-    margin-top: 100px;
+    padding-top: 100px;
+    font-size: 1.1em;
 }
 
 #article-container h2, p {
@@ -181,8 +185,9 @@ h3 {
     padding: 10px;
     padding-top: 50px;
     padding-bottom: 50px;
-    height: 600px;
+    height: 700px;
     width: 80%;
+    align-items: center;
 }
 
 .about-container {
