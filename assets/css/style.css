@@ -296,16 +296,6 @@ textarea {
     resize: vertical;
 }
 
-#contact-form {
-    width: 100%;
-    display: block;
-    padding-left: 5%;
-    padding-top: 100px;
-    margin-bottom: 100px;
-    display: inline-block;
-    background-image: linear-gradient(#75d3f9, white);
-}
-
 .form-input {
     display: block;
     border: 0.5px solid #1d7595;
@@ -466,8 +456,24 @@ input[type=submit]:hover {
         width: 100%;
     }
 
-    #contact-form {
-        padding-left: 5%;
+    .about-outer {
+        padding: 5px;
+    }
+    
+    .about-outer2 {
+        padding: 5px;
+    }
+    
+    .contact-outer {
+        padding: 5px;
+    }
+    
+    .contact-outer2 {
+        padding: 5px;
+    }
+
+    .contact-core {
+        padding: 5px;
     }
 }
 
@@ -506,12 +512,12 @@ input[type=submit]:hover {
         width: 100%;
     }
 
-    #contact-form {
-        padding-left: 10%;
+    .contact-outer2 {
+        padding: 10px;
     }
 
-    #contact-form {
-        padding-left: 5%;
+    .contact-core {
+        padding: 10px;
     }
 }
 
@@ -535,7 +541,4 @@ input[type=submit]:hover {
         width: 100%;
     }
 
-    #contact-form {
-        padding-left: 5%;
-    }
 }
