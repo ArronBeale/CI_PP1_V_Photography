@@ -220,6 +220,11 @@ The site currently contains 12 features across 4 pages.
 
 ![Footer](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/features/feature-footer.PNG)
 
+### 404 Page
+- A 404 page to be displayed if a user searched for a page that does not exist.
+
+![404 Page](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/features/feature-404.PNG)
+
 [Back to Top](<#Table-of-Content>)
 ## Validation
 W3C Markup Validation Service was used. No errors or warnings were reported.
