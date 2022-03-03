@@ -4,7 +4,6 @@ Developer: Arron Beale
 ![responsive display image](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/am-i-responsive.PNG)
 
 [Live Webpage](https://arronbeale.github.io/CI_PP1_V_Photography/)
-This site was created for educational purposes and is fictional.
 
 ## Table of Content
 1. [Project Goals](#project-goals)
@@ -522,7 +521,7 @@ You can clone the repository by following these steps:
 
 [Back to Top](<#Table-of-Content>)
 ## Credits
- 
+This site was created for educational purposes and is fictional.
 
 ### Media
 Profile Picture -  [Rene Asmussen](https://www.pexels.com/@reneasmussen)
