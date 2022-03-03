@@ -521,14 +521,14 @@ You can clone the repository by following these steps:
 
 [Back to Top](<#Table-of-Content>)
 ## Credits
-This site was created for educational purposes and is fictional.
+- This site was created for educational purposes and is fictional.
 
 ### Media
-Profile Picture -  [Rene Asmussen](https://www.pexels.com/@reneasmussen)
-Eagle hunter Photographs - [Julia Volk](https://www.pexels.com/@julia-volk)
-Hero image, background image of lake - [Pixabay](https://www.pexels.com/@pixabay)
-Embedded GoPro video from Youtube - [GoPro / Youtube](https://www.youtube.com/watch?v=vlDzYIIOYmM)
-Background video of Snowy Mountain - [SwissHumanity](https://www.pexels.com/@swisshumanity-1686058)
+- Profile Picture -  [Rene Asmussen](https://www.pexels.com/@reneasmussen)
+- Eagle hunter Photographs - [Julia Volk](https://www.pexels.com/@julia-volk)
+- Hero image, background image of lake - [Pixabay](https://www.pexels.com/@pixabay)
+- Embedded GoPro video from Youtube - [GoPro / Youtube](https://www.youtube.com/watch?v=vlDzYIIOYmM)
+- Background video of Snowy Mountain - [SwissHumanity](https://www.pexels.com/@swisshumanity-1686058)
 
 ### Code
 - Imported Google Fonts.
