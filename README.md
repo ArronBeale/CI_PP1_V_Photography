@@ -524,16 +524,16 @@ You can clone the repository by following these steps:
 - This site was created for educational purposes and is fictional.
 
 ### Media
-- Profile Picture -  [Rene Asmussen](https://www.pexels.com/@reneasmussen)
+- Profile Picture - [Rene Asmussen](https://www.pexels.com/@reneasmussen)
 - Eagle hunter Photographs - [Julia Volk](https://www.pexels.com/@julia-volk)
 - Hero image, background image of lake - [Pixabay](https://www.pexels.com/@pixabay)
 - Embedded GoPro video from Youtube - [GoPro / Youtube](https://www.youtube.com/watch?v=vlDzYIIOYmM)
 - Background video of Snowy Mountain - [SwissHumanity](https://www.pexels.com/@swisshumanity-1686058)
 
 ### Code
-- Imported Google Fonts.
-- Google Map code in order to embed on contact page.
-- GitHub Docs provided 404 page seetup.
+- Fonts provided by - [Google Fonts](https://fonts.google.com/)
+- Google maps code in order to embed map. [Google Maps](hhttps://www.google.com/maps/@47.6947936,11.7560625,19.06z)
+- GitHub Docs provided 404 page seetup. [Github Docs](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)
 
 ## Acknowledgements
 
