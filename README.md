@@ -253,36 +253,44 @@ W3C Jigsaw Validation Service was used, 1 warning was referenced which was to wa
 ### Accessibility
 WAVE Web Accessibility Evaluation Tool was used to check for any accessibility issues, no errors were reported.
 
-<details><summary>Home</summary>
+<details><summary>Home Page</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-accessibility-home.PNG">
 </details>
-<details><summary>Gallery</summary>
+<details><summary>Gallery Page</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-accessibility-gallery.PNG">
 </details>
-<details><summary>About</summary>
+<details><summary>About Page</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-accessibility-about.PNG">
 </details>
-<details><summary>Contact</summary>
+<details><summary>Contact Page</summary>
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-accessibility-contact.PNG">
+</details>
+
+<details><summary>404 Page</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-accessibility-contact.PNG">
 </details>
 
 ### Performance
 Google Lighthouse was used to measure performance of all pages.
 
-<details><summary>Home</summary>
+<details><summary>Home Page</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/performance-lighthouse-home.PNG">
 </details>
 
-<details><summary>Gallery</summary>
+<details><summary>Gallery Page</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/performance-lighthouse-gallery.PNG">
 </details>
 
-<details><summary>About</summary>
+<details><summary>About Page</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/performance-lighthouse-about.PNG">
 </details>
 
-<details><summary>Contact</summary>
+<details><summary>Contact Page</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/performance-lighthouse-contact.PNG">
+</details>
+
+<details><summary>404 Page</summary>
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/performance_lighthouse_404.PNG">
 </details>
 
 ### Performing Tests on Devices
