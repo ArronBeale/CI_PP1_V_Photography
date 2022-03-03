@@ -344,11 +344,10 @@ First Time User:
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Footer | Scroll to bottom of each page, see social media links. | All social media links work and visible on bottom of each page | Passed |
-|  |  |  |  |
+| Foot | Click on each social icon. | New tab opens to respective social site. | Passed |
 
 <details><summary>Images</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-5.png">
-<img src="">
 </details>
 
 4. Gallery of photographers work.
@@ -356,7 +355,7 @@ First Time User:
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Gallery Page | Navigate to gallery page via navigation bar. Arrive at gallery, scroll down. | Full gallery visible | Passed |
-|  |  |  |  |
+| Gallery Page | Test on small screen, iPhone 5. | Gallery fully functional. | Passed |
 
 <details><summary>Images</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-6-12a.png">
@@ -368,8 +367,8 @@ First Time User:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Responsive design | On Google Chrome or smilar access Dev Tools via F12, select device such as iPhone, iPad etc. | Device emulator wll show responsive design on selected device | Passed |
-|  |  |  |  |
+| Responsive Design | On Google Chrome or smilar access Dev Tools via F12, select device such as iPhone, iPad etc. | Device emulator will show responsive design on selected device | Passed |
+| Responsive Design | Test on physical device, laptop, Samsung Galaxy S20 | Expected to work fully. | Passed |
 
 <details><summary>Images</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-7a.png">
@@ -402,7 +401,7 @@ Site Owner:
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Gallery Page | Navigate to gallery page via navigation bar. Arrive at gallery, scroll down. | Full gallery visible | Passed |
-|  |  |  |  |
+| Gallery Page |  |  |  |
 
 <details><summary>Images</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-6-12a.png">
