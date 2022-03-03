@@ -327,7 +327,7 @@ First Time User:
 <img src="">
 </details>
 
-2. Contact Information easily available.
+2. Information easily available, contact information.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
