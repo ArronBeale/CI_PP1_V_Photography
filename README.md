@@ -72,30 +72,25 @@ Developer: Arron Beale
 
 ### First Time User
 1. Home page to show it is a photography site.
-2. Accessibility.
-3. Easy navigation.
-4. Information easily available, contact information, gallery, about.
-5. Links to social media available.
-6. Gallery of photographers work.
-7. Responsive design to work on phone, tablet, laptop and desktop.
+2. Information easily available, contact information, gallery, about.
+3. Links to social media available.
+4. Gallery of photographers work.
+5. Responsive design to work on phone, tablet, laptop and desktop.
 
 ### Returning User
-8. All of the above.
-9. Accessibility.
-10. Easy navigation.
-11. A newsletter sign up.
-
+6. A contact form.
+7. A newsletter sign up.
+ 
 ### Site Owner
-12. To showcase my photographs in a gallery.
+8. To showcase my photographs in a gallery.
 13. To have relevant keywords for search engines.
-14. To have accessibility for visitors.
-15. A responsive design for visitors to my site, phone, tablet, laptop, desktop.
-16. Navigation to be easy and intuitive.
-17. A home page, a gallery page, an about page and a contact page.
-18. Social media links on the bottom of each page.
-19. A google map on my contact page.
-20. My picture on the home page, very important!
-21. Visitors to sign up to my newsletter.
+14. To provide some information about me on a about page.
+15. Navigation to be easy and intuitive.
+16. A home page, a gallery page, an about page and a contact page.
+17. Social media links on the bottom of each page.
+18. A google map on my contact page.
+19. My picture on the home page, very important!
+20. Visitors to sign up to my newsletter.
 
 [Back to Top](<#Table-of-Content>)
 ## Design
@@ -379,11 +374,11 @@ First Time User:
 </details>
 
 Returning User:
-7. All of the above.
+7. A form to get in touch.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| See Above Results | See Above Results | See above results | Passed |
+| Contact Form | Navigate to contact page, scroll down and find a form to insert first and last name,email and query. | Allows you to input and submit a query. | Passed |
 |  |  |  |  |
 
 8. Easy navigation.
@@ -432,16 +427,6 @@ Site Owner:
 
 <details><summary>Images</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-13.PNG">
-</details>
-
-12. To have accessibility for visitors.
-
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-| Accessibility Test | WAVE Accessibility test on all pages | All pages pass accessibility test | Passed |
-
-<details><summary>Images</summary>
-<img src="<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-accessibility-home.PNG">
 </details>
 
 13. A responsive design for visitors to my site, phone, tablet, laptop, desktop.
