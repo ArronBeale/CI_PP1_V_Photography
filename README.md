@@ -327,7 +327,7 @@ First Time User:
 <img src="">
 </details>
 
-2. Information easily available, contact information, gallery, about.
+2. Contact Information easily available.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -336,7 +336,7 @@ First Time User:
 
 <details><summary>Images</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17.png">
-<img src="">
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/features/feature-contact.PNG">
 </details>
 
 3. Links to social media available.
