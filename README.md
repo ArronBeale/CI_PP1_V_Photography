@@ -3,7 +3,8 @@ Developer: Arron Beale
 
 ![responsive display image](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/am-i-responsive.PNG)
 
-[Live webpage](https://arronbeale.github.io/CI_PP1_V_Photography/)
+[Live Webpage](https://arronbeale.github.io/CI_PP1_V_Photography/)
+This site was created for educational purposes and is fictional.
 
 ## Table of Content
 1. [Project Goals](#project-goals)
@@ -311,19 +312,7 @@ First Time User:
 <img src="">
 </details>
 
-2.Easy navigation.
-
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-| Navigation Bar | Use navigation links to access each page | Move to each page | Passed |
-| Back to Top button | Scroll to footer, click back to to top button | Jump to top of page | Passed |
-
-<details><summary>Images</summary>
-<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17.png">
-<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17b.png">
-</details>
-
-3.Information easily available, contact information, gallery, about.
+2. Information easily available, contact information, gallery, about.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -335,7 +324,7 @@ First Time User:
 <img src="">
 </details>
 
-4.Links to social media available.
+3. Links to social media available.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -347,7 +336,7 @@ First Time User:
 <img src="">
 </details>
 
-5.Gallery of photographers work.
+4. Gallery of photographers work.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -360,7 +349,7 @@ First Time User:
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-6-12c.png">
 </details>
 
-6.Responsive design to work on phone, tablet, laptop and desktop.
+5. Responsive design to work on phone, tablet, laptop and desktop.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -374,38 +363,26 @@ First Time User:
 </details>
 
 Returning User:
-7. A form to get in touch.
+6. A contact form.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Contact Form | Navigate to contact page, scroll down and find a form to insert first and last name,email and query. | Allows you to input and submit a query. | Passed |
-|  |  |  |  |
+| Contact form | Input first name, last name, email and a query. | Submit button expected to work and send query | Passed |
 
-8. Easy navigation.
-
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-| Navigation Bar | Use navigation links to access each page | Move to each page | Passed |
-| Back to Top button | Scroll to footer, click back to to top button | Jump to top of page | Passed |
-
-<details><summary>Images</summary>
-<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17.png">
-<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17b.png">
-</details>
-
-9. A newsletter sign up.
+7. A newsletter sign up.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Newsletter Sign Up | Scroll to bottom of any page, see newsletter sign up feature | Allows sign up to newsletter | Passed |
-|  |  |  |  |
+| Newsletter Sign Up | Scroll to bottom of any page, find newsletter sign up feature | Allows sign up to newsletter | Passed |
+| Newsletter Sign Up | Sign up to news letter | receives email input and submit button works | Passed |
 
 <details><summary>Images</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-11.png">
 </details>
 
 Site Owner:
-10. To showcase my photographs in a gallery.
+8. To showcase my photographs in a gallery.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -418,23 +395,23 @@ Site Owner:
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-6-12c.png">
 </details>
 
-11. To have relevant keywords for search engines.
+9. To have relevant keywords for search engines.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Keywords | Code review of Meta, check for keyword presence. | Find all relevant keywords to photography | Passed |
+| Keywords | Code review, check meta for keyword presence. | Find all relevant keywords to photography | Passed |
 |  |  |  |  |
 
 <details><summary>Images</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-13.PNG">
 </details>
 
-13. A responsive design for visitors to my site, phone, tablet, laptop, desktop.
+10. To provide some information about me on an about page.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Responsive design | On Google Chrome or smilar access Dev Tools via F12, select device such as iPhone, iPad etc. | Device emulator wll show responsive design on selected device | Passed |
-|  |  |  |  |
+| About page | navigate to the about page, scroll down. | Find some information about the site owner and his work | Passed |
+| About page | navigate to the about page, scroll down and find an embedded video. | Find a video of a project the site owner has worked on. | Passed |
 
 <details><summary>Images</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-7a.png">
@@ -442,7 +419,7 @@ Site Owner:
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-7c.png">
 </details>
 
-14. Navigation to be easy and intuitive.
+11. Navigation to be easy and intuitive.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -454,7 +431,7 @@ Site Owner:
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17b.png">
 </details>
 
-15. A home page, a gallery page, an about page and a contact page.
+12. A home page, a gallery page, an about page and a contact page.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -466,7 +443,7 @@ Site Owner:
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17b.png">
 </details>
 
-16. Social media links on the bottom of each page.
+13. Social media links on the bottom of each page.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -478,7 +455,7 @@ Site Owner:
 <img src="">
 </details>
 
-17. A Google Map on my contact page.
+14. A Google Map on my contact page.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -489,7 +466,7 @@ Site Owner:
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-19.png">
 </details>
 
-18. My picture on the home page, very important!
+15. My picture on the home page, very important!
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -500,7 +477,7 @@ Site Owner:
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-20.png">
 </details>
 
-19. Visitors to sign up to my newsletter.
+16. Visitors to sign up to my newsletter.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -516,9 +493,9 @@ Site Owner:
 
 | **Bug** | **Fix** |
 | ----------- | ----------- |
-| Images not showing on deployed site | Image file paths began with "/", fixed links to images and removed "/" at beginning of links. |
+| Images not showing on deployed site | Image file paths began with "/", fixed links to images and removed "/" at beginning of links. Research claimed this happens when hosting on GitHub Pages. |
 | Div container did not have CSS applied.  | CSS rule had an error in syntax, was expecting ";" but had ":", replaced with correct syntax. |
-|  |  |
+| All font became very small | This was not a code issue, I had previously changed the zoom level of the browser to capture more in a screenshot. When I returned i forgot I had done this action, eventually I realised the error that was made. |
 |  |  |
 |  |  |
 
@@ -548,6 +525,11 @@ You can clone the repository by following these steps:
  
 
 ### Media
+Profile Picture -  [Rene Asmussen](https://www.pexels.com/@reneasmussen)
+Eagle hunter Photographs - [Julia Volk](https://www.pexels.com/@julia-volk)
+Hero image, background image of lake - [Pixabay](https://www.pexels.com/@pixabay)
+Embedded GoPro video from Youtube - [GoPro / Youtube](https://www.youtube.com/watch?v=vlDzYIIOYmM)
+Background video of Snowy Mountain - [SwissHumanity](https://www.pexels.com/@swisshumanity-1686058)
 
 ### Code
 - Imported Google Fonts.
