@@ -532,8 +532,8 @@ You can clone the repository by following these steps:
 
 ### Code
 - Fonts provided by - [Google Fonts](https://fonts.google.com/)
-- Google maps code in order to embed map. [Google Maps](https://www.google.com/maps/@47.6947936,11.7560625,19.06z)
-- GitHub Docs provided 404 page seetup. [Github Docs](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)
+- Google maps code in order to embed map. - [Google Maps](https://www.google.com/maps/@47.6947936,11.7560625,19.06z)
+- GitHub Docs provided 404 page seetup. - [Github Docs](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)
 
 ## Acknowledgements
 
