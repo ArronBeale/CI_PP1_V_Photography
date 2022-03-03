@@ -242,6 +242,9 @@ W3C Markup Validation Service was used. No errors or warnings were reported.
 <details><summary>Contact</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-html-contact.PNG">
 </details>
+<details><summary>404</summary>
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/validation-html-404.PNG">
+</details>
 
 ### CSS Validation
 W3C Jigsaw Validation Service was used, 1 warning was referenced which was to warn it does not check imported Google Fonts.
@@ -273,23 +276,23 @@ WAVE Web Accessibility Evaluation Tool was used to check for any accessibility i
 ### Performance
 Google Lighthouse was used to measure performance of all pages.
 
-<details><summary>Home Page</summary>
+<details><summary>Home</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/performance-lighthouse-home.PNG">
 </details>
 
-<details><summary>Gallery Page</summary>
+<details><summary>Gallery</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/performance-lighthouse-gallery.PNG">
 </details>
 
-<details><summary>About Page</summary>
+<details><summary>About</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/performance-lighthouse-about.PNG">
 </details>
 
-<details><summary>Contact Page</summary>
+<details><summary>Contact</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/performance-lighthouse-contact.PNG">
 </details>
 
-<details><summary>404 Page</summary>
+<details><summary>404</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/validation/performance_lighthouse_404.PNG">
 </details>
 
