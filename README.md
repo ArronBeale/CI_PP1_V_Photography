@@ -401,7 +401,7 @@ Site Owner:
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Gallery Page | Navigate to gallery page via navigation bar. Arrive at gallery, scroll down. | Full gallery visible | Passed |
-| Gallery Page |  |  |  |
+| Gallery Page | Test Gallery scales to smaller screens, resize browser screen size to test. | Gallery is responsive and scales down. | Passed |
 
 <details><summary>Images</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-6-12a.png">
@@ -414,7 +414,6 @@ Site Owner:
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Keywords | Code review, check meta for keyword presence. | Find all relevant keywords to photography | Passed |
-|  |  |  |  |
 
 <details><summary>Images</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-13.PNG">
@@ -461,8 +460,8 @@ Site Owner:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Footer | Scroll to bottom of each page, see social media links. | All social media links work and visible on bottom of each page | Passed |
-|  |  |  |  |
+| Social Links | Scroll to bottom of each page, see social media links. | All social media links work and visible on bottom of each page | Passed |
+| Social Links | Click on each social link, new tab will open and bring you the social media site. | A new tab will open and bring you the social media site. | Passed |
 
 <details><summary>Images</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-5.png">
@@ -474,7 +473,7 @@ Site Owner:
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Map | Navigate to contact page, scroll down and find Google Map. | Find Map | Passed |
-|  |  |  |  |
+| Map | On the map, click and drag, zoom in and out to check it works fully. | Map should work exactly as it should, allowing to scroll and zoom. | Passed |
 
 <details><summary>Images</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-19.png">
@@ -485,7 +484,7 @@ Site Owner:
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Profile Picture | Navigate to any page, scroll down. | Find profile image. | Passed |
-|  |  |  |  |
+| Profile Picture | Resize screen to small and ensure picture scales down and stays visible. | Picture scales down to smaller screens. | Passed |
 
 <details><summary>Images</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-20.png">
@@ -496,7 +495,7 @@ Site Owner:
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Newsletter Sign Up | Scroll to bottom of any page, see newsletter sign up feature | Allows sign up to newsletter | Passed |
-|  |  |  |  |
+| Newsletter Sign Up | Input an email address and press submit button. | Email will be submitted, response from CI form dump to verify it works. | Passed |
 
 <details><summary>Images</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-11.png">
@@ -510,8 +509,7 @@ Site Owner:
 | Images not showing on deployed site | Image file paths began with "/", fixed links to images and removed "/" at beginning of links. Research claimed this happens when hosting on GitHub Pages. |
 | Div container did not have CSS applied.  | CSS rule had an error in syntax, was expecting ";" but had ":", replaced with correct syntax. |
 | All font became very small | This was not a code issue, I had previously changed the zoom level of the browser to capture more in a screenshot. When I returned i forgot I had done this action, eventually I realised the error that was made. |
-|  |  |
-|  |  |
+| Container class of a Div was not working as expected. | Div had an id name assigned to it and not a class, renamed to class and this fixed the issue. |
 
 [Back to Top](<#Table-of-Content>)
 ## Deployment
