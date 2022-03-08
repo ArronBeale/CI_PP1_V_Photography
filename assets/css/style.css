@@ -103,6 +103,10 @@ ul {
     background-image: linear-gradient(#75d3f9, white);
 }
 
+#profile-image {
+    border: 1px solid #1d7595;
+    border-radius: 10px;
+}
 #bg-video1 {
     width: 100vw;
     height: 100vh;
