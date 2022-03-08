@@ -425,66 +425,24 @@ input[type=submit]:hover {
     overflow: hidden;
 }
 
-/* Media queries for small screens */
-@media screen and (max-width: 320px) {
+/* Media queries for laptops */
+@media screen and (max-width: 1200px) {
     .hero-image {
         width: 100%;
         height: auto;
+    }
+
+    .hero-image h1 {
+        font-size: 1em;
+        margin-bottom: 450px;
     }
 
     h3 {
         font-size: 1em;
     }
 
-    .logo {
-        background-size: 70px 70px;
-        width: 70px;
-        height: 70px;
-        float: left;
-    }
-
-    .hero-image h1 {
-        font-size: 1em;
-    }
-
-    .nav {
-        text-align: center;
-        font-size: 1em;
-        word-spacing: 5px;
-    }
-
-    .nav-ul {
-        font-size: 1em;
-    }
-
-    .profile-picture-container {
-        width: 100%;
-        height: 100px;
-        margin-top: 600px;
-    }
-
     .newsletter-signup {
         width: 100%;
-    }
-
-    .about-outer {
-        padding: 5px;
-    }
-    
-    .about-outer2 {
-        padding: 5px;
-    }
-    
-    .contact-outer {
-        padding: 5px;
-    }
-    
-    .contact-outer2 {
-        padding: 5px;
-    }
-
-    .contact-core {
-        padding: 5px;
     }
 }
 
@@ -544,23 +502,70 @@ input[type=submit]:hover {
     }
 }
 
-/* Media queries for laptops */
-@media screen and (max-width: 1200px) {
+/* Media queries for small screens */
+@media screen and (max-width: 340px) {
     .hero-image {
         width: 100%;
         height: auto;
-    }
-
-    .hero-image h1 {
-        font-size: 1em;
-        margin-bottom: 450px;
     }
 
     h3 {
         font-size: 1em;
     }
 
+    .logo {
+        background-size: 70px 70px;
+        width: 70px;
+        height: 70px;
+        float: left;
+    }
+
+    .hero-image h1 {
+        font-size: .9em;
+    }
+
+    .nav {
+        text-align: center;
+        font-size: 1em;
+        word-spacing: 5px;
+    }
+
+    .nav-ul {
+        font-size: 1em;
+    }
+
+    .profile-picture-container {
+        width: 100%;
+        height: 100px;
+        margin-top: 600px;
+    }
+
     .newsletter-signup {
         width: 100%;
+        font-size: .9em;
+    }
+
+    .about-outer {
+        padding: 5px;
+    }
+    
+    .about-outer2 {
+        padding: 5px;
+    }
+    
+    .contact-outer {
+        padding: 5px;
+    }
+    
+    .contact-outer2 {
+        padding: 5px;
+    }
+
+    .contact-core {
+        padding: 5px;
+    }
+
+    .flexbox-item2 {
+        font-size: .8em;
     }
 }
