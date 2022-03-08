@@ -21,6 +21,10 @@ h3 {
     text-decoration: none;
 }
 
+h1 {
+    text-shadow: white 22px -9px 5px;
+}
+
 ul {
     color: #1d7595;
 }
