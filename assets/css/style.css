@@ -10,12 +10,19 @@
 
 p {
     font-family: Georgia, sans-serif;
+    color: #1d7595;
 }
 
 h1,
 h2,
 h3 {
     font-family: "Spectral SC", sans-serif;
+    color: #1d7595;
+    text-decoration: none;
+}
+
+ul {
+    color: #1d7595;
 }
 
 .nav-ul li {
@@ -129,6 +136,7 @@ h3 {
     min-height: 100px;
     padding: 10px;
     font-size: 1.2em;
+    text-decoration-color: #1d7595;
 }
 
 #image-bg-container {
@@ -150,13 +158,14 @@ h3 {
 #awards-section {
     text-align: center;
     text-decoration: underline;
+    text-decoration-color: #1d7595;
     margin-top: 60px;
 }
 
 .flexbox-item2 > ul {
     font-weight: 600;
     list-style-type: none;
-    text-decoration: none;
+    text-decoration: underline;
     margin: 50px;
     line-height: 45px;
     font-family: "Spectral SC", sans-serif;
