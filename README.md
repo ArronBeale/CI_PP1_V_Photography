@@ -133,6 +133,9 @@ A logo is visible on the left of the navigation bar. There is a total of four pa
 <details><summary>Contact</summary>
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/wireframes/wireframe-contact.PNG">
 </details>
+<details><summary>404</summary>
+<img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/wireframes/wireframe-404.PNG">
+</details>
    
 [Back to Top](<#Table-of-Content>)
 ## Technologies Used
