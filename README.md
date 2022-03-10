@@ -318,7 +318,7 @@ The following devices were tested using actual physical devices:
 
 ### Testing User Stories
 First Time User:
-1. Home page to show it is a photography site.
+1. As a first time user, I want the Home page to show it is a photography site.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -330,7 +330,7 @@ First Time User:
 <img src="">
 </details>
 
-2. Information easily available, contact information.
+2. As a first time user, I want information easily available, contact information, gallery, about.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -342,7 +342,7 @@ First Time User:
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/features/feature-contact.PNG">
 </details>
 
-3. Links to social media available.
+3. As a first time user, I want links to social media available.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -353,7 +353,7 @@ First Time User:
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-5.png">
 </details>
 
-4. Gallery of photographers work.
+4. As a first time user, I want a gallery of the photographers work.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -366,7 +366,7 @@ First Time User:
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-6-12c.png">
 </details>
 
-5. Responsive design to work on phone, tablet, laptop and desktop.
+5. As a first time user, I want responsive design to work on phone, tablet, laptop and desktop.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -380,14 +380,14 @@ First Time User:
 </details>
 
 Returning User:
-6. A contact form.
+6. As a returning user, I want a contact form.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Contact Form | Navigate to contact page, scroll down and find a form to insert first and last name,email and query. | Allows you to input and submit a query. | Passed |
 | Contact form | Input first name, last name, email and a query. | Submit button expected to work and send query | Passed |
 
-7. A newsletter sign up.
+7. As a returning user, I want a newsletter sign up.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -399,7 +399,7 @@ Returning User:
 </details>
 
 Site Owner:
-8. To showcase my photographs in a gallery.
+8. As the site owner, I want to showcase my photographs in a gallery.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -412,7 +412,7 @@ Site Owner:
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-6-12c.png">
 </details>
 
-9. To have relevant keywords for search engines.
+9. As the site owner, I want to have relevant keywords for search engines.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -422,7 +422,7 @@ Site Owner:
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-13.PNG">
 </details>
 
-10. To provide some information about me on an about page.
+10. As the site owner, I want to provide some information about me on a about page.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -435,7 +435,7 @@ Site Owner:
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-7c.png">
 </details>
 
-11. Navigation to be easy and intuitive.
+11. As the site owner, I want navigation to be easy and intuitive.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -447,7 +447,7 @@ Site Owner:
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17b.png">
 </details>
 
-12. A home page, a gallery page, an about page and a contact page.
+12. As the site owner, I want a home page, a gallery page, an about page and a contact page.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -459,7 +459,7 @@ Site Owner:
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-3-10-16-17b.png">
 </details>
 
-13. Social media links on the bottom of each page.
+13. As the site owner, I want social media links on the bottom of each page.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -471,7 +471,7 @@ Site Owner:
 <img src="">
 </details>
 
-14. A Google Map on my contact page.
+14. As the site owner, I want a google map on my contact page.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -482,7 +482,7 @@ Site Owner:
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-19.png">
 </details>
 
-15. My picture on the home page, very important!
+15. As the site owner, I want my picture on the home page, very important!
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -493,7 +493,7 @@ Site Owner:
 <img src="https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/user-story-tests/user-story-20.png">
 </details>
 
-16. Visitors to sign up to my newsletter.
+16. As the site owner, I want visitors to sign up to my newsletter.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
