@@ -71,26 +71,26 @@ Developer: Arron Beale
 ### User Stories
 
 ### First Time User
-1. Home page to show it is a photography site.
-2. Information easily available, contact information, gallery, about.
-3. Links to social media available.
-4. Gallery of photographers work.
-5. Responsive design to work on phone, tablet, laptop and desktop.
+1. As a first time user, I want the Home page to show it is a photography site.
+2. As a first time user, I want information easily available, contact information, gallery, about.
+3. As a first time user, I want links to social media available.
+4. As a first time user, I want a gallery of the photographers work.
+5. As a first time user, I want responsive design to work on phone, tablet, laptop and desktop.
 
 ### Returning User
-6. A contact form.
-7. A newsletter sign up.
+6. As a returning user, I want a contact form.
+7. As a returning user, I want a newsletter sign up.
  
 ### Site Owner
-8. To showcase my photographs in a gallery.
-13. To have relevant keywords for search engines.
-14. To provide some information about me on a about page.
-15. Navigation to be easy and intuitive.
-16. A home page, a gallery page, an about page and a contact page.
-17. Social media links on the bottom of each page.
-18. A google map on my contact page.
-19. My picture on the home page, very important!
-20. Visitors to sign up to my newsletter.
+8. As the site owner, I want to showcase my photographs in a gallery.
+13. As the site owner, I want to have relevant keywords for search engines.
+14. As the site owner, I want to provide some information about me on a about page.
+15. As the site owner, I want navigation to be easy and intuitive.
+16. As the site owner, I want a home page, a gallery page, an about page and a contact page.
+17. As the site owner, I want social media links on the bottom of each page.
+18. As the site owner, I want a google map on my contact page.
+19. As the site owner, I want my picture on the home page, very important!
+20. As the site owner, I want visitors to sign up to my newsletter.
 
 [Back to Top](<#Table-of-Content>)
 ## Design
