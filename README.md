@@ -236,7 +236,7 @@ The site currently contains 12 features across 4 pages.
 
 ### 404 Page
 - A 404 page to be displayed if a user searched for a page that does not exist.
-- User stories covered: 2, 5, 3, 7, 11
+- User stories covered: 2, 3, 5,  7, 11
 
 ![404 Page](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/features/feature-404.PNG)
 
