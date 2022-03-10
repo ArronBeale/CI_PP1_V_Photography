@@ -167,64 +167,76 @@ The site currently contains 12 features across 4 pages.
 - Fully responsive on all screen sizes
 - Located on all pages
 - Allows easy navigation across the site
+- User stories covered: 1, 2, 5, 11, 12
 ![Logo and Navigation](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/features/feature-navigation-logo.PNG)
 
 ### Gallery
 - Masonry style gallery to allow a high volume of images in a small area.
+- User stories covered: 2, 4, 5, 8, 12, 5
 
 ![Gallery](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/features/feature-gallery.PNG)
 
 ### Profile Image
 - A profile image of the Photographer on each page.
+- User stories covered: 15
 
 ![Profile picture](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/features/feature-profile-image.PNG)
 
 ### Awards
 - An awards section on the home page to showcase awards achieved.
+- User stories covered: 2, 5
 
 ![Awards](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/features/feature-awards.PNG)
 
 ### About
 - An about me section to allow visitors to learn about the Photographer.
+- User stories covered: 2, 5, 10
 
 ![About Me](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/features/feature-about-me.PNG)
 
 ### Newsletter Sign up
 - A newsletter to allow visitors to stay up to date with news and events.
 - Located on all pages
+- User stories covered: 5, 7, 16
 
 ![Newsletter](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/features/feature-newsletter.PNG)
 
 ### Contact Information
 - Allows visitors to get contact details.
+- User stories covered: 2, 5, 6, 12
 
 ![Contact information](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/features/feature-contact.PNG)
 
 ### Map
 - A map to give visitors directions to address of business.
+- User stories covered: 5, 14
 
 ![Map](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/features/feature-map.PNG)
 
 ### Back to Top
 - Allows the visitor to navigate to top of the page instead of scrolling.
 - Located on all pages.
+- User stories covered: 5, 11
 
 ![back to top](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/features/feature-back-to-top.PNG)
 
 ### Social Links
 - To provide links to all the Photographers social media platforms.
 - Located on all pages.
+- User stories covered: 3, 5, 13
 
 ![Social media links](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/features/feature-social-links.PNG)
 
 ### Footer
 - Comprises of social media links, back to top page and newsletter sign up .
 - located on all pages.
+- User stories covered: 3, 5, 7, 11, 13, 16
 
 ![Footer](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/features/feature-footer.PNG)
 
 ### 404 Page
 - A 404 page to be displayed if a user searched for a page that does not exist.
+- User stories covered: 2, 5, 3, 7, 11
 
 ![404 Page](https://github.com/ArronBeale/CI_PP1_V_Photography/blob/main/docs/features/feature-404.PNG)
 
